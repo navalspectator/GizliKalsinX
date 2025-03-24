@@ -1,6 +1,6 @@
 ---
 title: "Güvenli Not Alma Uygulamaları"
-icon: simple/2fas
+icon: material/shield-lock
 ---
 
 
