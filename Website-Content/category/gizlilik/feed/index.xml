@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gizlilik &#8211; Gizli Kalsın</title>
+	<atom:link href="https://gizlikalsin.com/category/gizlilik/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gizlikalsin.com/</link>
+	<description>Dijital Gizlilik ve Güvenlik Rehberiniz</description>
+	<lastBuildDate>Sat, 21 Sep 2024 10:41:37 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://gizlikalsin.com/wp-content/uploads/2023/04/cropped-logo-500500px-32x32.png</url>
+	<title>Gizlilik &#8211; Gizli Kalsın</title>
+	<link>https://gizlikalsin.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>YouTube&#8217;un Takibinden Kurtulun: Ücretsiz ve Reklamsız Youtube Alternatifleri!</title>
+		<link>https://gizlikalsin.com/ucretsiz-youtube-alternatifleri/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Sun, 31 Mar 2024 11:40:23 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[gizlilik]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com/?p=485</guid>
+
+					<description><![CDATA[YouTube, artık hayatımızın ayrılmaz bir parçası, hatta belki de vazgeçilmez bir köşesi. Ama her güzel şeyin bir bedeli var ya, YouTube&#8217;un da kendine has sorunları eksik olmuyor. Mahremiyet ihlalleri, reklamların çoğu zaman dayanılmaz hale gelmesi ve devletlerin meraklı gözleri&#8230; Peki, bu durumda ne yapmalı? Nasıl bir rota çizmeliyiz ki, dijital dünyada kendimize ait bir alan [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>YouTube, artık hayatımızın ayrılmaz bir parçası, hatta belki de vazgeçilmez bir köşesi. Ama her güzel şeyin bir bedeli var ya, YouTube&#8217;un da kendine has sorunları eksik olmuyor. Mahremiyet ihlalleri, reklamların çoğu zaman dayanılmaz hale gelmesi ve devletlerin meraklı gözleri&#8230; Peki, bu durumda ne yapmalı? Nasıl bir rota çizmeliyiz ki, dijital dünyada kendimize ait bir alan yaratabilelim? Bu sorulara cevap ararken, topluluk destekli ve açık kaynaklı bazı harika alternatiflerden bahsetmek istiyoruz.</p>
+
+
+
+<p>Ancak ilk olarak, YouTube&#8217;un bizi nasıl izlediğini, mahremiyetimizi nasıl tehdit ettiğini anlayalım. Çünkü hangi sorunu çözmek istediğinize bağlı olarak tercih edeceğiniz servisler değişiklik gösterebilir.</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Devlet Gözetimi ve Mahremiyet İhlalleri:</strong> Çoğu web sitesi artık HTTPS protokolünü kullanıyor. Bu protokol, internet servis sağlayıcınızın ve dolayısıyla devletlerin, ziyaret ettiğiniz ana sayfayı görmesine olanak tanısa da (örneğin <a href="http://youtube.com/">youtube.com</a>), içerikte hangi sayfalara girdiğinizi görmezler. Ancak YouTube&#8217;a girdiğinizde izlediğiniz videolar doğrudan görülmezken, mahkeme kararlarıyla ya da doğrudan taleplerle bu bilgilere ulaşılabilir. Amerika Birleşik Devletleri&#8217;nde yaşanan bir olayda, FBI&#8217;ın belirli videoları izleyen kullanıcıların kayıtlarını YouTube&#8217;dan istediği ortaya çıktı. Hesap açmasanız bile, izleme zamanınız, IP adresiniz, işletim sisteminiz ve kullandığınız tarayıcı gibi birçok bilgi paylaşılabilir. Bu durum, mahremiyetinizin ciddi şekilde ihlal edildiğini gösterir ve sadece bir video izlediğiniz için sizi makul şüpheli durumuna sokabilir. Tabii ki bu tür olaylar çok nadir oluyor, aşırı evham yapmaya da gerek yok.</li>
+
+
+
+<li><strong>Reklamlar ve Takipçiler:</strong> YouTube&#8217;da hesap açmasanız bile, platform izleme alışkanlıklarınız hakkında detaylı kayıtlar tutar. İzlediğiniz videolar ve arama geçmişiniz, size özel reklamlar sunmak için kullanılır. Bu, YouTube&#8217;un sizin hakkınızda ne kadar çok bilgi biriktirdiğinin bir göstergesidir. Sürekli karşımıza çıkan reklamlar, deneyimi daha da rahatsız edici bir hale getirir. YouTube Premium&#8217;a abone olarak reklamlardan kaçınabilirsiniz; ancak, platformun sizin hakkınızda tuttuğu kayıtlar ve takip etme mekanizması değişmez.</li>
+
+
+
+<li><strong>Sansür:</strong> YouTube&#8217;daki sansürle mücadelede sıkça başvurulan yöntemlerden biri VPN kullanmaktır. Bir diğer yöntem ise YouTube üzerinden ülke ayarlarını değiştirmektir. Bu yöntemler, yasaklı içeriklere erişim sağlamada etkili olsa da, alternatif çözümler de mevcuttur.</li>
+</ol>
+
+
+
+<h3 class="wp-block-heading"><strong>Açık Kaynak Kodlu Alternatifler: Mahremiyetin Yeni Kahramanları</strong></h3>
+
+
+
+<p>Birazdan detaylandıracağımız Piped, Invidious, NewPipe, FreeTube ve Yattee gibi servisler, YouTube deneyimimizi daha mahremiyet odaklı hale getirmek için topluluklar tarafından açık kaynak kodlu olarak geliştirilmiş projelerdir. Bu demek oluyor ki, geliştirilmeleri ve sürdürülmeleri için toplulukların katkılarına ihtiyaç duyarlar. Eğer bu hizmetlerden faydalanıyor ve onları beğeniyorsanız, gelişimlerine katkıda bulunmak için bağış yapmayı düşünebilirsiniz. Gelelim bu alternatiflere.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Tarayıcı Tabanlı YouTube Alternatifleri: <a href="https://github.com/TeamPiped/Piped/wiki/Instances" title="">Piped</a> ve <a href="https://docs.invidious.io/instances/" title="">Invidious</a></strong></h3>
+
+
+
+<p>Piped ve Invidious, reklamsız ve kullanıcı mahremiyetini koruyan YouTube alternatifleridir. Tarayıcınızda YouTube yerine bu iki servisin topluluk tarafından sağlanan linklere giderek en kolay şekilde video izleyebilir, müzik dinleyebilirsiniz.</p>
+
+
+
+<p>Her iki servis de, reklamları engeller ve daha az dijital iz bırakmanıza yardımcı olur. Ancak, önemli bir farkları var: Piped, YouTube&#8217;dan gelen verileri proxy&#8217;leyerek size ulaştırırken, IP adresinizi gizler. Bu, YouTube&#8217;un sizin IP adresinizi takip etmesini de engeller. Invidious ise benzer bir hizmet sunmasına rağmen, IP adresinizi gizlemez.</p>
+
+
+
+<p>İki proje de açık kaynak kodlu olduğundan topluluk tarafından sunulan farklı instance&#8217;lar (yani farklı linkler) vardır. Yani siz de kendi evinizde bir server&#8217;a isterseniz bu uygulamaları kurabilirsiniz. Ancak birçoğumuz bunu yapacak kaynaklara ya da teknik bilgiye sahip olmadığımızdan topluluk tarafından oluşturulmuş web sitelerini kullanırız. Bu yüzden linklerini verdiğimiz resmi websitelerinde bulunan linkleri kullanmaya özen göstermelisiniz.</p>
+
+
+
+<p>Invidious sitelerini listesi: <a href="https://docs.invidious.io/instances/">https://docs.invidious.io/instances/</a></p>
+
+
+
+<p>Piped sitelerinin listesi: <a href="https://github.com/TeamPiped/Piped/wiki/Instances" title="">https://github.com/TeamPiped/Piped/wiki/Instances </a></p>
+
+
+
+<h3 class="wp-block-heading"><strong>Windows</strong>, <strong>macOS</strong> ve <strong>Linux: <a href="https://freetubeapp.io/" title="">FreeTube</a></strong></h3>
+
+
+
+<p>Masaüstü cihazlarınız için FreeTube, YouTube videolarını reklamsız ve gizlilik odaklı bir şekilde izlemenizi sağlar. Linux, macOS ve Windows işletim sistemlerinde kullanılabilir. FreeTube, yerel olarak abonelikleri ve izleme geçmişini saklar, ayrıca çeşitli gizlilik ve kullanıcı ayarları sunar.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Android: <a href="https://newpipe.net/" title="">NewPipe</a></strong></h3>
+
+
+
+<p>Android kullanıcıları için NewPipe, YouTube deneyimini iyileştiren bir başka harika seçenektir. Reklamsız video izleme, arka planda oynatma ve indirme özelliği sunar. NewPipe, yerel olarak abonelikleri ve izleme geçmişini saklayarak mahremiyetinizi korur. Bu uygulama, Google servislerine bağımlı olmadan YouTube içeriklerine erişim sağlar.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>macOS ve iOS: </strong><a href="https://github.com/yattee/yattee/wiki/Installation-Instructions" title="">Yattee</a></h3>
+
+
+
+<p>Apple ekosistemindeki kullanıcılar için Yattee, iOS ve macOS cihazlarında özelleştirilmiş ve reklamsız bir YouTube deneyimi sunar. AdBlock, SponsorBlock gibi özelliklerle donatılmıştır. Yattee, alternatif Invidious ve Piped örneklerine erişim imkanı sunarak, kullanıcıların çeşitli içeriklere erişimini kolaylaştırır. Yattee uygulamasını kullanabilmek için Settings &gt; Advanced and add manifest url kısmına bu linki eklemeniz gerekiyor: <a href="https://r.yattee.stream/manifest-invidious-piped.json">https://r.yattee.stream/manifest-invidious-piped.json</a> Bu adımın manuel olarak yapılmasının zorunlu olma nedeni, App Store&#8217;un izin vermemesidir. Şu anki haliyle Yattee aslında bir video player olarak uygulaması olarak App Store&#8217;a deklare ediliyor, YouTube alternatifi değil.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Kanal Aboneliklerinizi Kolayca Yönetin</strong></h3>
+
+
+
+<p>Bu alternatif servislerin güzel yanlarından biri de, YouTube kanal aboneliklerinizi bir dosya olarak indirip, istediğiniz zaman bu yedekten geri yükleyebilmenize olanak tanımasıdır. Bu özellik, platformlar arası geçişlerde büyük kolaylık sağlar.</p>
+
+
+
+<p>Diğer yandan birçok Invidious ve Piped instance&#8217;ı, yani sitesi, kullanıcı hesabı açmanıza ve üyeliklerinizi veya izleme geçmişinizi bu hesapla senkronize etmenize olanak tanır. Tabii bu durumda o siteyi size sunan kişi veya topluluğa güvenmeniz gerekiyor demektir. Seçim size kalmış.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>IP Adresi ve Mahremiyet</strong></h3>
+
+
+
+<p>Bu servis ve uygulamalar, YouTube deneyiminizi geliştirirken mahremiyetinizi koruyabilir, ancak unutulmamalıdır ki, internet üzerinde hareket ederken IP adresiniz, kullanılan platform tarafından görülebilir. Örneğin, Piped kullanırken YouTube&#8217;un sizin IP&#8217;nizi görmesini engelleyebilirsiniz ama bu, Piped&#8217;in IP&#8217;nizi göremeyeceği anlamına gelmez. Her ne kadar birçok insan bu servise güvense ve Piped&#8217;in bu işten bir çıkarı olmasa da bu tamamen sizin kendi tehdit modelinize göre vermeniz gereken bir karardır.</p>
+
+
+
+<p>Eğer IP adresinizi Piped&#8217;tan da gizlemek isterseniz, güvenilir bir VPN kullanmayı düşünebilirsiniz. VPN, sizi çevrimiçi dünyada daha görünmez kılarak, gerçek IP adresinizi saklar.</p>
+
+
+
+<p>VPN önerilerimiz için ilgili sayfayı ziyaret edebilirsiniz.</p>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-gizli-kals-n wp-block-embed-gizli-kals-n"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="ZiC12RVM5H"><a href="https://gizlikalsin.com/vpnler-hakkinda-bilmeniz-gerekenler/">VPN&#8217;ler Hakkında Bilmeniz Gerekenler</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;VPN&#8217;ler Hakkında Bilmeniz Gerekenler&#8221; &#8212; Gizli Kalsın" src="https://gizlikalsin.com/vpnler-hakkinda-bilmeniz-gerekenler/embed/#?secret=jzrRXvfgjD#?secret=ZiC12RVM5H" data-secret="ZiC12RVM5H" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>Son söz, YouTube son zamanlarda hem reklam engelleyici eklentilere hem de bu mahremiyet dostu servis uygulamalara savaş açtı. YouTube devamlı bu servisleri engellemek için yeni kodlar geliştiriyor, sonrasında topluluk ise bunlara karşı yeni alternatifler buluyor. Zaman zaman bu uygulamalardan ve sitelerden, özellikle de Piped instance&#8217;larından YouTube&#8217;a erişememe ihtimaliniz var. Malum Piped tüm veriyi kendi sunucuları üzerinden aktararak IP adresini gizliyor.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Notlarınızı Koruma Altına Alın: Gizlilik Dostu Not Alma Uygulamalarını Keşfedelim!</title>
+		<link>https://gizlikalsin.com/guvenli-not-alma-uygulamalari/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Sat, 02 Mar 2024 23:52:55 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[evernote]]></category>
+		<category><![CDATA[gizlilik]]></category>
+		<category><![CDATA[not defteri]]></category>
+		<category><![CDATA[notion]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com/?p=459</guid>
+
+					<description><![CDATA[Bugünlerde hepimizin aklında aynı soru var: Dijital notlarımızı nasıl daha güvenli tutabiliriz? Evet, bu notlar bizim için oldukça değerli; çünkü içlerinde aklımıza gelen her türlü fikir, projelerimiz ve belki de gelecek planlarımız yer alıyor. Öyleyse, bu değerli bilgilerimizi korumak için ne yapabiliriz? Cevap basit: Gizlilik ve güvenlik odaklı uygulamalar kullanmak. Teknoloji her geçen gün ilerliyor [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Bugünlerde hepimizin aklında aynı soru var: Dijital notlarımızı nasıl daha güvenli tutabiliriz? Evet, bu notlar bizim için oldukça değerli; çünkü içlerinde aklımıza gelen her türlü fikir, projelerimiz ve belki de gelecek planlarımız yer alıyor. Öyleyse, bu değerli bilgilerimizi korumak için ne yapabiliriz? Cevap basit: Gizlilik ve güvenlik odaklı uygulamalar kullanmak.</p>
+
+
+
+<p>Teknoloji her geçen gün ilerliyor ve bu ilerleme ile birlikte yapay zeka ve veri madenciliği gibi kavramlar, hayatımızın bir parçası haline geliyor. Fakat bu gelişmeler, kişisel verilerimizin korunması konusunda da yeni sorumluluklar getiriyor. İşte bu yüzden, notlarımızı sakladığımız uygulamaların, sadece bugünümüzü değil, yarınımızı da koruyabilecek özelliklere sahip olması gerekiyor.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Peki Hangi Uygulamaları Kullanmalıyız?</strong></h2>
+
+
+
+<h3 class="wp-block-heading"><strong><a href="https://standardnotes.com/" target="_blank" rel="noopener" title="">1. Standard Notes</a></strong></h3>
+
+
+
+<p>Standard Notes, sadeliğin ve güvenliğin mükemmel uyumunu sunuyor. Her yerde uçtan uca şifreleme ile notlarınız sadece size özel kalıyor. Sadelikten yana olanlar, buraya!</p>
+
+
+
+<p>Standardnotes ücretli sürümünde markdown, kod, görevler ve yapılacaklar, iki faktörlü doğrulama kodlarını saklama, özel temalar gibi birçok ekstra özellik sunmakta. </p>
+
+
+
+<p>Buna alternatif olarak topluluk tarafından oluşturulmuş editör ve temaları ücretsiz olarak kullanabilirsiniz. Detaylı bir liste için bu <a href="https://github.com/jonhadfield/awesome-standard-notes" target="_blank" rel="noopener" title="">sayfaya</a> bakın.</p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading"><strong><a href="https://notesnook.com/" target="_blank" rel="noopener" title="">2. Notesnook</a></strong></h3>
+
+
+
+<p>Notesnook bu alana nispeten yeni giriş yapmış bir uygulama olmasına rağmen kısa sürede çok popüler hale ve kullanışlı bir uygulama olmayı başardı. </p>
+
+
+
+<p>Kullanıcı dostu arayüzü ve Evernote, OneNote gibi uygulamalardan kolayca geçiş yapabilmeniz için tasarlanmış içe aktarma özelliği ile notlarınızı sorunsuz bir şekilde taşıyabilirsiniz. Standardnotes ile karşılaştırıldığında ücretsiz sürümünde daha cömert cömert davrandığını ve daha fazla özellik sunduğunu not etmeden geçmeyelim.  </p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://joplinapp.org/" target="_blank" rel="noopener" title=""><strong>3. Joplin: </strong>Açık Kaynak Kodlu Evernote Alternatifi</a></h3>
+
+
+
+<p>Evernote’a alışmış olanlar ama açık kaynak kodlu alternatif arayanlar için Joplin biçilmiş bir kaftan. Açık kaynaklı olması, markdown desteği ve uçtan uca şifreleme desteği ile ile notlarınızı hem güvende tutar hem de istediğiniz bulut sağlayıcısında saklamanıza olanak tanır. </p>
+
+
+
+<p>Örneğin; bir dropbox hesabı kullanarak notlarınızı ücretsiz olarak tüm cihazlarınızla eşitleyebilirsiniz. Uçtan uca şifreleme özelliğini <a href="https://joplinapp.org/help/apps/sync/e2ee/" target="_blank" rel="noopener" title="">aktif</a> hale getirdiğinizde Joplin bulut sunucusuna göndereceğiniz tüm verileri şifreleyerek gönderir. Üstelik sadece birkaç <a href="https://joplinapp.org/help/apps/sync/" target="_blank" rel="noopener" title="">adımda</a> bu ayarlamalar yapılabiliyor. </p>
+
+
+
+<p>Uygulama tamamen ücretsiz. Ancak Joplin tarafından geliştirilen ve kendi sunucuları üzerinden otomatik eşitleme sağlayan özelliği kullanmak isterseniz, basic veya pro paketlerinden birisini seçebilirsiniz. Uygulamanın detaylı incelemesiyle ilgili aşağıdaki youtube videosunu inceleyebilirsiniz.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Joplin Tutorial - Joplin Note-Taking App Tutorial" width="500" height="281" src="https://www.youtube.com/embed/emiwyNQa12Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Biraz Daha Derine İnmeye Ne Dersiniz?</strong></h2>
+
+
+
+<p>Özellikle Notion gibi daha güçlü uygulamalar kullanıyor, ancak dijital gizliliğe önem veren uçtan uca şifrelemeli programlar arıyorsanız buraya.</p>
+
+
+
+<h3 class="wp-block-heading">4. <strong>Anytype: Kontrolü size geri veren Güçlü bir Notion rakibi</strong>!</h3>
+
+
+
+<p>Notion&#8217;un fonksiyonelliklerini arıyor ama gizlilik konusunda daha fazlasını istiyorsanız, Anytype tam size göre. Notion&#8217;a kıyasla, Anytype verilerinizi yerel olarak saklamanıza ve uçtan uca şifreleme ile korumanıza olanak tanıyor, yani notlarınız ve projeleriniz sadece sizin erişiminizde. </p>
+
+
+
+<p>Anytype, blok tabanlı yapısı ile içeriklerinizi özgürce düzenlemenize imkan verir. Yazılardan görsellere, her türlü içeriği kendi yaratıcılığınız doğrultusunda şekillendirebilirsiniz. Özelleştirilebilir yapıları ile kendi veri yönetim sisteminizi oluşturabilir, Notion&#8217;daki esnekliği gizlilikle birleştirebilirsiniz. Anytype, gizlilik odaklı kullanıcılar için ideal bir Notion alternatifidir. Tek dezavantajı, yeni başlayanlar için alışmak biraz zaman alıyor.</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://obsidian.md/" target="_blank" rel="noopener" title="">5. <strong>Obsidian: Bilgi Ağınızı Genişletin</strong></a></h3>
+
+
+
+<p>Obsidian bu listede açık kaynak kodlu olmayan tek uygulama. Fakat notlarınızı kendiniz istediğiniz bir platforma yedekleyebilirsiniz. Eğer Mac ve iPhone kullanıcısı iseniz ve <a href="https://support.apple.com/tr-tr/108756">İleri Düzey Veri Koruma</a>&#8216;yı aktifleştirdiyseniz, notlarınızı icloud üzerinden uçtan uca şifrelemeli olarak eşitleyebilirsiniz. </p>
+
+
+
+<p>Veya notlarınıza telefonda ulaşmaya ihtiyacınız yoksa, notlarınızın kayıt yerini yerel disk yerine proton drive veya tresorit gibi bir güvenli bir bulut sağlayıcısı klasörlerini seçerek notlarınızı daima güncel tutabilirsiniz.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Dijital dünyada güvenlik ve gizlilik artık bir tercih değil, bir zorunluluk. Bu uygulamalar, notlarınızı güvende tutmanın yanı sıra, düşüncelerinizi daha iyi organize etmenize de yardımcı olacak. Hangi uygulamayı seçerseniz seçin, gizliliğinize ve güvenliğinize önem verdiğiniz sürece, doğru yoldasınız.</p><cite>Gizli Kalsın.</cite></blockquote></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gizlilik Dostu Arama Motorlarıyla Tanışın!</title>
+		<link>https://gizlikalsin.com/arama-motorlari/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2023 14:03:44 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[brave]]></category>
+		<category><![CDATA[gizlilik]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=386</guid>
+
+					<description><![CDATA[Neden Gizlilik Dostu bir Arama Motoru Seçmelisiniz? Günümüzde birçok bilgiye arama motorları üzerinden erişiyoruz. Dolayısıyla Google ve Bing gibi birkaç büyük şirketin bu alanda suyun başını tutması iki önemli problem oluşturuyor; kişilerin profillenmesi ve sansür. Öncelikle arama yaptığınız anahtar kelimeler, IP adresiniz, kullandığınız işletim sistemi ve konumunuz gibi birçok hassas bilgi toplanıyor, işleniyor ve başta [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<h1 class="wp-block-heading">Neden Gizlilik Dostu bir Arama Motoru Seçmelisiniz? </h1>
+
+
+
+<p>Günümüzde birçok bilgiye arama motorları üzerinden erişiyoruz. Dolayısıyla Google ve Bing gibi birkaç büyük şirketin bu alanda suyun başını tutması iki önemli problem oluşturuyor; <strong>kişilerin profillenmesi ve sansür</strong>.</p>
+
+
+
+<p>Öncelikle arama yaptığınız anahtar kelimeler, IP adresiniz, kullandığınız işletim sistemi ve konumunuz gibi birçok hassas bilgi toplanıyor, işleniyor ve başta reklam amaçlı olmak üzere hepimizin detaylı profilleri oluşturuluyor. Yani bir manada mükemmel bir fişleme makinesi. Eğer Google veya Bing arama motolarının kullanırken bir de oturumunuz açık ise, sahip oldukları tüm bilgileri birleştirdiklerinde sizi en yakın aile üyelerinden bile daha iyi tanıyacak kadar güçlü algoritmalar devreye giriyor.</p>
+
+
+
+<p>İşin diğer bir yanı ise bu bilgilerin rahatlıkla polis ve diğer devlet kurumlarıyla paylaşılması. Amerikan Sivil Özgürlükler Birliği&#8217;nde (ACLU) gözetim ve siber güvenlik danışmanı Jennifer Granick olayın vahametini şu sözlerle <a href="https://www.forbes.com/sites/thomasbrewster/2021/10/04/google-keyword-warrants-give-us-government-data-on-search-users/">ifade</a> etmektedir:</p>
+
+
+
+<p><em>&#8220;Google&#8217;ın arama geçmişi veritabanında gezinmek, polisin insanları yalnızca geçmişte bir noktada, herhangi bir nedenle ne düşünmüş olabileceklerine dayanarak tanımlamasına olanak tanır. Bu, halkın ilgi alanları, inançları, görüşleri, değerleri ve dostlukları aracılığıyla, Google&#8217;ın zaman makinesi tarafından desteklenen zihin okumaya benzer şekilde sanal bir sürüklenmedir.&#8221;&nbsp;</em></p>
+
+
+
+<p>Yine 2021 yılındaki bir başka <a href="https://www.theguardian.com/us-news/2021/sep/16/geofence-warrants-reverse-search-warrants-police-google">olayda</a> ise, Polis hırsızlık yapılan bir evin çevresindeki sinyalleri Google&#8217;dan talep ettiğinde, olayla hiç alakası olmadığı halde sadece bisikletle oradan geçen&nbsp;Zachary McCoy soruşturmaya dahil edildi. <strong>Kısacası suçu her ne kadar farkında olmasa da, yanlış zamanda yanlış yerde bulunması idi.</strong></p>
+
+
+
+<p>Bu nedenle, verilerinizin güvende olmasını sağlamanın tek yolu, <strong>verinizin sadece basit bir arama yapmanızı sağlayan bu araçlar tarafından takip edilmemesidir.</strong></p>
+
+
+
+<p>İkinci sorun ise önümüze hangi bilgi ve bilgi kaynaklarının çıkıp, çıkmayacağı ve sıralanacağına (hiçbirimiz 5-10 sayfadan öteye tıklamıyoruz) onlar karar veriyor. Yani modern bir sansür mekanizması ile karşı karşıyayız. Her ne kadar kişilik hakları, özel hayatın gizliliği gibi konularda haklı adımlar atılsa da, (nerdeyse) hiçbir dış denetime tabi olmayan bu şirketler çoğu zaman bu güçlerini kendi karlarını maksimize edecek şekilde kullanıyorlar.</p>
+
+
+
+<p>Sansür yukarıdan aşağıya doğru iner. Çünkü, birçok alternatif arama motoru, sonuçlarının bir kısmını büyük şirketlerden özel proxy&#8217;ler aracılığıyla alırlar. Proxy işlemi sizin verilerinizi büyük şirketlere karşı korusa da, Google ve Bing bir sansür uyguladığında veya manipülasyon yaptığında, alternatif arama motorunuzun da aynı sonuçları sunacağı anlamına gelir.&nbsp;</p>
+
+
+
+<h1 class="wp-block-heading">Benim içim en iyi Arama Motorunu Nasıl Seçmeliyim?</h1>
+
+
+
+<p>Diğer taraftan şunu da unutmamak gerekir ki sansüre maruz kalan konular genellikle sınırlıdır. Dolayısıyla gizlilik politikası herkes için çok önemli bir kriter olsa da, sansür herkes için aynı seviyede önemli olmayabilir.</p>
+
+
+
+<p>Diğer bir kriter ise özellikle VPN üzerinden arama yapıldığında bağlantınızın bloklanmaması veya sık sık karşınıza captcha (robot musun) sorgularının çıkmamasıdır.</p>
+
+
+
+<p>Dolayısıyla, size en uygun arama motorunu bulmak, kişisel ihtiyaçlarınıza ve tehdit modelinize bağlıdır. Şimdi arama motoru seçerken önemli olan kriterleri inceleyelim.</p>
+
+
+
+<h1 class="wp-block-heading"><strong>Zorunlu Kriterler</strong></h1>
+
+
+
+<ul class="wp-block-list">
+<li>Gizlilik Politikasında Kişisel Veri Toplanmadığı&nbsp;beyan edilmelidir.</li>
+</ul>
+
+
+
+<h1 class="wp-block-heading"><strong>İsteğe Bağlı Kriterler</strong></h1>
+
+
+
+<ul class="wp-block-list">
+<li>Açık kaynak kodlu olmalıdır.</li>
+
+
+
+<li>VPN ve TOR bağlantılarından arama motoruna erişilebilmelidir.</li>
+
+
+
+<li>Google ve Bing gibi büyük şirketlerin arama sonuçlarından (tamamen veya kısmen) bağımsız olmalıdır.</li>
+</ul>
+
+
+
+<h1 class="wp-block-heading">Tavsiyelerimiz</h1>
+
+
+
+<h1 class="wp-block-heading"><a href="https://search.brave.com/">1-Brave Search</a></h1>
+
+
+
+<figure class="wp-block-image size-large has-custom-border"><img fetchpriority="high" decoding="async" width="1024" height="176" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/09/image-1024x176.png" alt="" class="wp-image-387" style="border-style:none;border-width:0px;border-radius:37px" srcset="https://gizlikalsin.com/wp-content/uploads/2023/09/image-1024x176.png 1024w, https://gizlikalsin.com/wp-content/uploads/2023/09/image-300x52.png 300w, https://gizlikalsin.com/wp-content/uploads/2023/09/image-768x132.png 768w, https://gizlikalsin.com/wp-content/uploads/2023/09/image.png 1349w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Brave Tarayıcısının geliştiricileri tarafından sunulan ve sonuçları tamamen <strong>bağımsız</strong> olan bir arama motorudur. Brave Arama Motoru, işletim sistemi ve kullanılan tarayıcı gibi bazı metrikleri anonim olarak toplar ve herhangi bir<strong> kişisel verinizi</strong> kaydetmez.&nbsp;</p>
+
+
+
+<p>Brave Arama Motoru ö<strong>zetleyici (summarizer),&nbsp;tartışmalar (discussions) ve koruyucu gözlükler (goggles)</strong> gibi kullanışlı ekstra özellikleri vardır.</p>
+
+
+
+<p><strong>Brave Özetleyici,</strong> Brave Search sonuç sayfalarının en üstünde, yalnızca web arama sonuçlarına dayalı olarak özlü yanıtlar sağlayan bir yapay zeka aracıdır.</p>
+
+
+
+<p><strong>Tartışmalar</strong> özelliği yaptığınız aramalarla ilgili özellikle reddit gibi forum sitelerinde verilen cevapları sunarak aramalarınızda diğer insanların bahsettikleri konuları görmenizi sağlar. Arama motoru optimizasyonu yöntemleri yüzünden, Google, Bing ve onların sonuçlarını kullanan arama motorlarında ilk sayfalarda organik cevaplar bulabilmek gittikçe imkansız hale gelmektedir.</p>
+
+
+
+<p><strong>Goggles</strong>, Brave Search&#8217;ün bir beta özelliğidir. Goggle&#8217;lar, herkesin aranabilir sonuçlarını kısıtlamak veya sonuçların sıralamasını değiştirmek için kural ve filtre setleri oluşturmasına olanak tanır. Dolayısıyla karşınıza çıkmasını istediğiniz sonuçlara arama motoru yerine siz de karar verebilirsiniz.</p>
+
+
+
+<p>Brave Arama motorunun en büyük dezavantajı halihazırda Türkçe arayüzü bulunmaması. Tabi site arayüzünü İngilizce olarak kullanıp, Türkçe arama yapabilir ve Türkçe sonuçlara erişebilirsiniz.&nbsp;</p>
+
+
+
+<p>Brave Arama&#8217;yı varsayılan arama motorunuz yapmak için tarayıcınız ayarlar &gt; Arama bölümüne giderek değiştirebilirsiniz. Eğer seçenekler arasında göremiyorsanız, bu <a href="https://search.brave.com/default">adreste</a>&nbsp;belirtilen adımları izleyebilirsiniz.</p>
+
+
+
+<h1 class="wp-block-heading"><a href="https://duckduckgo.com/">2-Duckduckgo</a></h1>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="740" height="201" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/09/image-1.png" alt="" class="wp-image-388" srcset="https://gizlikalsin.com/wp-content/uploads/2023/09/image-1.png 740w, https://gizlikalsin.com/wp-content/uploads/2023/09/image-1-300x81.png 300w" sizes="(max-width: 740px) 100vw, 740px" /></figure>
+
+
+
+<p>DuckDuckGo, köklü bir arama motoru seçeneğidir. DuckDuckGo, Tor Browser için varsayılan arama motorudur ve Apple&#8217;ın Safari tarayıcısında mevcut seçenekler arasında tek gizlilik dostu olan seçenektir.</p>
+
+
+
+<p>Son birkaç yılda DuckDuckGo, arama motorunun yanı sıra masaüstü ve mobil tarayıcılar da geliştirmiştir. Ayrıca ücretsiz olarak sunulan e-posta koruması, uygulama takipçi engelleyici gibi hizmetler de sunmaktadır. Web sitesi ve uygulamaları Türkçe arayüzüne sahiptir. Ancak uygulamaların kapalı kaynak kodlu olması ve diğer daha köklü tarayıcılar olan Brave ve Firefox gibi seçeneklerle karşılaştırıldığında nispeten yeni olması sebebiyle DuckDuckGo&#8217;yu tercih etmeninizi öneriyoruz.</p>
+
+
+
+<p>DuckDuckGo, Amerika Birleşik Devletleri&#8217;nde barındırılmaktadır. Gizlilik politikası, arama sorgularınızı ürünlerini geliştirmek amacıyla kaydettiklerini, ancak IP adresinizi veya diğer verilerinizi kaydetmediklerini belirtmektedir.</p>
+
+
+
+<p>Duckduckgo&#8217;yu varsayılan arama motorunuz yapmak için tarayıcınız ayarlar &gt; Arama bölümüne giderek değiştirebilirsiniz. Eğer seçenekler arasında göremiyorsanız, bu <a href="https://duckduckgo.com/install">adreste</a>&nbsp;belirtilen adımları izleyebilirsiniz.</p>
+
+
+
+<h1 class="wp-block-heading"><a href="https://www.startpage.com/">3-Startpage</a></h1>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="769" height="222" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/09/image-2.png" alt="" class="wp-image-389" srcset="https://gizlikalsin.com/wp-content/uploads/2023/09/image-2.png 769w, https://gizlikalsin.com/wp-content/uploads/2023/09/image-2-300x87.png 300w" sizes="(max-width: 769px) 100vw, 769px" /></figure>
+
+
+
+<p>Startpage, Google arama sonuçlarını kişisel verilerinizi toplamadan sunmasıyla bilinen bir arama motorudur. Belirli dillerde veya aranılan konulara göre Google daha ilgili sonuçlar gösterebilmektedir. Eğer kendinizi Google alternatifi arama motorlarını kullanmaya hazır hissetmiyorsanız, aynı sonuçları gizlilik dostu bir yöntem ile sunan Startpage tam size göre.</p>
+
+
+
+<p>Startpage, VPN ve TOR üzerinden erişimleri zaman zaman kısıtlamaktadır. Eğer VPN veya TOR kullanıyorsanız sık sık captcha girmek zorunda kalabilirsiniz.&nbsp;Startpage Hollanda merkezlidir. Gizlilik politikalarına göre, işletim sistemi, tarayıcı türü ve dil gibi ayrıntıları kaydederler, ancak IP adresinizi, arama sorgularınızı veya diğer kişisel tanımlayıcı bilgileri kaydetmezler.</p>
+
+
+
+<p>Startpage&#8217;i bilgisayarınızda varsayılan arama motoru yapmak için aşağıdaki linklere tıklayın.</p>
+
+
+
+<p><a href="https://support.startpage.com/hc/en-us/sections/4481914586516-Make-Startpage-your-homepage-desktop-">Masaüstü</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://support.startpage.com/hc/en-us/sections/5317629140372-Mobile-iOS-">iOS</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;​​​​​​​&nbsp;&nbsp;&nbsp;&nbsp;​​​​​​​&nbsp;&nbsp;&nbsp;&nbsp;​​​​​​​&nbsp;&nbsp;&nbsp;&nbsp;​​​​​​​&nbsp;&nbsp;&nbsp;&nbsp;​​​​​​​<a href="https://support.startpage.com/hc/en-us/sections/5317469095956-Mobile-Android-">Android</a><a href="https://www.startpage.com/"></a></p>
+
+
+
+<h1 class="wp-block-heading"><a href="https://searx.space/">4-SearxNG</a></h1>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="791" height="231" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/09/image-3.png" alt="" class="wp-image-390" srcset="https://gizlikalsin.com/wp-content/uploads/2023/09/image-3.png 791w, https://gizlikalsin.com/wp-content/uploads/2023/09/image-3-300x88.png 300w, https://gizlikalsin.com/wp-content/uploads/2023/09/image-3-768x224.png 768w" sizes="(max-width: 791px) 100vw, 791px" /></figure>
+
+
+
+<p>SearXNG, açık kaynak kodlu bir meta arama motorudur. Yaptığınız konfigürasyona göre diğer arama motorlarının sonuçlarını toplayarak size sunar. SearXNG yaptığınız aramalarla ilgili herhangi bir kişisel veri toplamamaktadır.</p>
+
+
+
+<p>Eğer yeterli teknik bilgiye sahipseniz, kendi SearXNG instance&#8217;ınızı host edebilirsiniz. Topluluk tarafından yönetilen instance&#8217;lar için&nbsp;<a href="https://searx.space/">https://searx.space/</a>&nbsp;adresini ziyaret edin.&nbsp;<br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>İki Faktörlü/Adımlı Doğrulama Uygulamaları ve Cihazları</title>
+		<link>https://gizlikalsin.com/iki-adimli-dogrulama-uygulamalari-cihazlari/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 10:37:13 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[güvenlik]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=360</guid>
+
+					<description><![CDATA[İki Faktörlü Doğrulama Nedir? İki faktörlü kimlik doğrulama, kullanıcı adı ve parolanız gibi sizin bildiğiniz bilgiler dışında ek adımlar gerektiren bir güvenlik doğrulama mekanizmasıdır. Bir hesabı koruma altına almada ve ona erişmede en birinci yol sizin bildiğiniz kullanıcı adı/email adresi ve şifre kombinasyonunu girmektir. Eğer bir siber saldırgan bunları ele geçirir veya tahmin ederse hesabınıza [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1 class="wp-block-heading">İki Faktörlü Doğrulama Nedir? </h1>
+
+
+
+<p>İki faktörlü kimlik doğrulama, kullanıcı adı ve parolanız gibi sizin bildiğiniz bilgiler dışında ek adımlar gerektiren bir güvenlik doğrulama mekanizmasıdır. Bir hesabı koruma altına almada ve ona erişmede en birinci yol sizin bildiğiniz kullanıcı adı/email adresi ve şifre kombinasyonunu girmektir. Eğer bir siber saldırgan bunları ele geçirir veya tahmin ederse hesabınıza rahatlıkla erişebilir.</p>
+
+
+
+<p>İki adımlı doğrulama sizin <strong>bildiğiniz bu kombinasyona</strong> ek olarak <strong>sahip olduğunuz</strong> bir bir cihaz, kod veya uygulamada bulunan faktörü kullanarak ikinci bir güvenlik adımı sağlar. İki faktörlü/adımlı doğrulama (2FA, Two-factor authentication) yaygın kullanım olarak hem konuşma diline, hem de dökümantasyonlara yansımış olsa da, aslında doğrusu çok faktörlü/adımlı doğrulamadır (Multi-factor Authentication). Erişilecek hesap veya bilginin önemine göre adım veya faktör sayısı 2, 3, 4 veya 5 olabilir. Burada önemli her adımda <strong>farklı doğrulama metotlarının</strong> kullanılmasıdır, yani iki tane farklı parola ile bir hesaba giriş yapmak bir iki <strong>faktörlü</strong> doğrulama metodu sayılmaz.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>İki faktörlü Doğrulama Çeşitleri</strong></h2>
+
+
+
+<p>Kullanılan teknolojiye göre farklı 2FA yöntemleri bulunmaktadır. En yaygın ve sanılanın <strong>aksine</strong> en az güvenli 2FA metodlarından birisi SMS tir. Zayıftan güçlüye doğru sayarsak, <strong>SMS, eposta üzerinden gönderilen doğrulama kodları, uygulamalar üzerinden gönderilen doğrulama bildirimleri (push notifications), zamana dayalı tek seferlik şifreler (Time-based One-time password, T-OTP), ve 2fa cihazlarıdır</strong>. Burada güvenlik seviyesini belirleyen ana etken, ikinci faktörün veya adımın <strong>sahip olduğunuz </strong>bir şey olmasıdır. </p>
+
+
+
+<ol class="wp-block-list">
+<li>Bahsettiğimiz gibi&nbsp;<strong>SMS</strong>&nbsp;ve&nbsp;<strong>eposta</strong>&nbsp;ile gönderilen tek seferlik şifreler en zayıf 2FA metodur. Çünkü, telefon numarası veya emailinizin ele geçirilmesi ve buraya gelen kodlara erişilebilmesi diğer metodlara göre daha kolaydır.&nbsp;</li>
+
+
+
+<li>Uygulama üzerinden gönderilen&nbsp;<strong>doğrulama bildirimleri,</strong>&nbsp;SMS veya epostaya göre daha güvenilir olsa da, uygulama kaydedilen cihazlar, bahse konu uygulamaların ve kullandıkları teknolojinin ne kadar güvenilir olduğuna bağlıdır. Ayrıca farklı hesaplar için farklı uygulamalar yüklemek ve onlara vereceğimiz izinler de bu yöntemin diğer dezavantajlarındandır.</li>
+
+
+
+<li>Diğer yaygın 2FA metotlarından birisi ise zamana dayalı tek seferlik şifrelerdir. Bu metotta sadece bir doğrulayıcı (authenticator) <strong>uygulamasına</strong> ihtiyacınız vardır. Sonrasında her hesap için bir QR kod okutursunuz veya sizinle paylaşılan gizli anahtarı (secret key) bu uygulamaya girersiniz. Uygulama da size gizli anahtar ile zamanın kombinasyonuna göre tek seferlik kullanım kodları üretir. Dolayısıyla güvenilir bir doğrulayıcı uygulama tercih ettiğiniz takdirde, hesabınızın ele geçirilmesi çok çok zorlaşır. </li>
+
+
+
+<li>Zamana dayalı tek seferlik şifreleri uygulama yerine bir donanımsal bir güvenlik anahtarında da saklayabilirsiniz. Bu metotta kodlar sadece ve sadece bir usb şeklinde olan bu cihazlar bilgisayara bağladığınızda ve siz cihaz üzerindeki tuşa bastığınızda ilgili siteye gönderilir. </li>
+
+
+
+<li>Son olarak FIDO2 isimli bir teknoloji kullanan donanımsal güvenlik anahtarları vardır. Pratikte usb belleğe benzer bir cihazı yine bilgisayara veya mobil cihazınıza takmanız gerekir, ancak içerisinde kullanılan teknoloji tek seferlik şifrelerden farklıdır ve daha güvenlidir.</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Benim için En Uygun 2fa Yöntemine Nasıl Karar Verebilirim?</h2>
+
+
+
+<p>Bu karar tehdit modelinize, bütçenize, korumak istediğiniz hesap ve verilerinizin ne kadar güvenli olduğu gibi etkenlere dayanır. Ama genel bir kural olarak şunu söyleyebiliriz ki,&nbsp;<strong>parola yöneticisinde oluşturduğunuz karmaşık bir şifre ve güvenilir bir authenticator uygulaması kullanmanız durumunda hesaplarınızı büyük oranda güvene almış olursunuz</strong>.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Tavsiye Ettiğimiz İki Faktörlü Doğrulama (2FA) Uygulamaları</strong></h2>
+
+
+
+<p></p>
+
+
+
+<ol class="wp-block-list">
+<li class="has-large-font-size"><strong><a href="https://2fas.com/" target="_blank" rel="noreferrer noopener">2FAS (iOS, Android, Tarayıcı Eklentisi)</a></strong></li>
+</ol>
+
+
+
+<ul class="wp-block-list">
+<li>2FAS cihazlar arası senkronizasyona izin veren ve modern bir kullanıcı arayüzü olan bir iki adımlı doğrulama uygulamasıdır. </li>
+
+
+
+<li>Tarayıcı eklentileri sayesinde tek kullanımlık şifrelerinizi cihazlar arasında geçiş yapmanıza gerek hesaplarınıza giriş yapabilirsiniz.</li>
+
+
+
+<li>Google authenticator, Aegis, Raivo OTP ve LastPass gibi popüler uygulamalarda bulunan kodlarınızı 2FAS uygulamasına taşıyabilirsiniz. </li>
+
+
+
+<li>Eğer uygulamaların tasarım ve arayüzleri sizler için önemli ise 2FAS bu konuda gerçekten çok başarılı bir uygulamadır.</li>
+</ul>
+
+
+
+<p class="has-large-font-size">     2. <strong><a href="https://getaegis.app/" target="_blank" rel="noreferrer noopener">Aegis Authenticator (Android)</a></strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Aegis android işletim sistemi için geliştirilmiş en iyi kullanıcı arayüzü olan iki adımlı doğrulama uygulamalarından birisidir. </li>
+
+
+
+<li>İki adımlı doğrulama anahtarlarınızı yedeklemek isterseniz, telefonunuza şifreli olarak belirli sürelerde otomatik yedekleme özelliğini kullanabilirsiniz.</li>
+</ul>
+
+
+
+<p class="has-large-font-size">    3. <strong><a href="https://github.com/ente-io/auth" target="_blank" rel="noreferrer noopener">Ente Authenticator (iOS, Android, MacOS, Web sitesi)</a></strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Uçtan uca şifrelemeli fotoğraf yedekleme uygulaması Ente’nin geliştiricileri tarafından kullanıma <a href="https://ente.io/blog/auth/">sunulmuştur</a>. Uçtan uca şifrelenmiş bulut yedeklemeleri ve çoklu cihaz senkronizasyonu sayesinde dizüstü bilgisayarlarınız, mobil cihazlarınız veya websitesi üzerinden tek kullanımlık kodlarınıza erişebilirsiniz. </li>
+
+
+
+<li>Ente uygulamasını kullanmak için email adresi ve parolanızla bir Ente hesabı açmanız gerekmektedir. </li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Tavsiye Ettiğimiz Uygulamaları Seçerken Dikkate Aldığımız Zorunlu Kriterler</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Uygulama açık kaynak kodlu olmalı,</li>
+
+
+
+<li>İnternete erişiminiz olmadığı durumlarda kodlarınızı kullanabiliyor olmalısınız.</li>
+
+
+
+<li>Kodlarınız içeri ve dışarı aktarma özelliği olmalı. (Başka bir uygulamaya geçmenize ve kodlarınızı yedeklemenize izin vermeli.)</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>İsteğe Bağlı Kriterler</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Mobil işletim sistemleri ile beraber Masaüstü versiyonları da bulunmalı,</li>
+
+
+
+<li>Uçtan uca şifreleme teknolojisini kullanarak bulut üzerinden entegrasyon sağlamalı,</li>
+
+
+
+<li>Otomatik olarak şifrelenmiş 2fa kodlarını belirtilen klasöre yedekleme.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Donanımsal Güvenlik Anahtarları</strong></h2>
+
+
+
+<p>Eğer daha güvenli bir iki faktörlü doğrulama yöntemi kullanmak isterseniz Tavsiye edebileceğimiz donanımsal güvenlik anahtarlarını kullanabilirsiniz. </p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">1. Yubikey</h3>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/08/yubikey2.png" alt="" class="wp-image-376" style="width:605px;height:240px" width="605" height="240" srcset="https://gizlikalsin.com/wp-content/uploads/2023/08/yubikey2.png 1024w, https://gizlikalsin.com/wp-content/uploads/2023/08/yubikey2-300x119.png 300w, https://gizlikalsin.com/wp-content/uploads/2023/08/yubikey2-768x305.png 768w" sizes="(max-width: 605px) 100vw, 605px" /></figure>
+
+
+
+<p>YubiKey, Yubico tarafından geliştirilen taşınabilir bir donanım kimlik doğrulama cihazıdır. YubiKey, bilgisayarlara veya mobil cihazlara bağlanan bir USB cihazıdır ve kimlik doğrulama istendiğinde sistemle iletişim kurar. Ayrıca NFC teknolojisiyle uyumlu olan cihazlarla da kullanılabilir. YubiKey, Universal 2nd Factor (U2F), OATH-HOTP veya OATH-TOTP algoritmalarını kullanarak tek kullanımlık şifreler oluşturabilir ve birden fazla kimlik bilgisini depolayabilir, bu da birden çok hesap ve hizmetle kullanılabilmesini sağlar.</p>
+
+
+
+<p>Yubikey’in çok sayıda modeli vardır, hangi modelin size ait olduğuna karar verebilmek <a href="https://www.yubico.com/store/compare/">karşılaştırma tablosunu</a> inceleyebilirsiniz. </p>
+
+
+
+<p>Ayrıca Arda Kılıçdağı’ nın Yubikey ile alakalı kapsamlı <a href="https://medium.com/@ardakilic/yubi-ney-yubikey-hakk%C4%B1nda-ilk-deneyimlerim-6a15fd556053">medium yazısı</a> da güzel Yubikey&#8217;in kullanımı konusunda faydalı Türkçe kaynaklardan birisi.  </p>
+
+
+
+<p><strong><em>Uyarı: Yubikey aygıt yazılımı (firmware) açık kaynak kodlu değildir ve güncelleme özelliği yoktur. Bu yüzden yeni sürümlerle gelen özelliklere erişmek için yeni model bir cihaz almanız gerekir. </em></strong></p>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">2. Nitrokey</h3>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/08/nitrokey-1-1024x889.jpg" alt="" class="wp-image-378" style="width:370px;height:321px" width="370" height="321" srcset="https://gizlikalsin.com/wp-content/uploads/2023/08/nitrokey-1-1024x889.jpg 1024w, https://gizlikalsin.com/wp-content/uploads/2023/08/nitrokey-1-300x261.jpg 300w, https://gizlikalsin.com/wp-content/uploads/2023/08/nitrokey-1-768x667.jpg 768w, https://gizlikalsin.com/wp-content/uploads/2023/08/nitrokey-1.jpg 1200w" sizes="(max-width: 370px) 100vw, 370px" /></figure>
+
+
+
+<p>Nitrokey serisi  Alman Nitro firması tarafından geliştirilen ve hem donanım hem de yazılım açık kaynak kodlu olan bir donanım güvenlik anahtarıdır. FIDO2, WebAuthn, OTP, ve PGP gibi protokolleri destekleyen farklı modelleri vardır. </p>
+
+
+
+<p>Nitrokey cihazlarının detaylı  özelliklerini ve aralarındaki farklıları incelemek için kendi sitesindeki <a href="https://www.nitrokey.com/#comparison">karşılaştırma tablosu </a>incelenebilir. </p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://solokeys.com/">3.  Solokeys</a></h3>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/08/solokeys.jpg" alt="" class="wp-image-379" style="width:332px;height:221px" width="332" height="221" srcset="https://gizlikalsin.com/wp-content/uploads/2023/08/solokeys.jpg 680w, https://gizlikalsin.com/wp-content/uploads/2023/08/solokeys-300x200.jpg 300w" sizes="(max-width: 332px) 100vw, 332px" /></figure>
+
+
+
+<p>SoloKeys, açık kaynaklı bir donanımsal güvenlik anahtarıdır. İnternet hesaplarınızı kimlik avı saldırılarına ve yetkisiz erişime karşı korumak için en güvenli giriş yöntemini kullanarak iki faktörlü kimlik doğrulama sağlar. SoloKeys, Trussed® ile oluşturulmuştur. U2F ve FIDO2 standardını desteklemektedir.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-table"><table><thead><tr><th>Anahtar</th><th>Bağlantı</th><th>Protokol</th><th>Açık Kaynak</th><th>Fiyat</th></tr></thead><tbody><tr><td>YubiKey</td><td>USB-A, USB-C, NFC</td><td>FIDO2, U2F, OATH, PIV, OpenPGP, YubiOTP</td><td>Hayır</td><td>$20-$70</td></tr><tr><td>Nitrokey</td><td>USB-A, USB-C, NFC</td><td>FIDO2, U2F, OATH, PIV, OpenPGP, OTP</td><td>Evet</td><td>$29-$69</td></tr><tr><td>SoloKey</td><td>USB-A, USB-C, NFC</td><td>FIDO2, U2F</td><td>Evet</td><td>$25-$35</td></tr></tbody></table><figcaption class="wp-element-caption">Yubikey, Nitrokey, ve Solokey karşılaştırma tablosu.</figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PAROLA YÖNETİCİLERİ</title>
+		<link>https://gizlikalsin.com/parola-yoneticileri/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 18:51:52 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[gizlilik]]></category>
+		<category><![CDATA[Proton]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=355</guid>
+
+					<description><![CDATA[Parolaların Önemi Gittikçe dijitalleşen dünyada parolalar ve iki adımlı doğrulama hesap, cihaz ve uygulamalarımızı siber saldırganlara karşı savunmada hayati bir önem taşımaktadır. Araştırmalar göstermektedir ki, keskin kuralların olduğu profesyonel dünyada bile veri sızıntılarının büyük çoğunluğu insan hatalarından kaynaklanmaktadır. Bu hataların büyük çoğunluğu ise parolaların oluşturulması veya kullanılması ile ilgili temel kurallara uymamaktan kaynaklanmaktadır. Sonuç olarak [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading"><strong>Parolaların Önemi</strong></h2>
+
+
+
+<p>Gittikçe dijitalleşen dünyada parolalar ve iki adımlı doğrulama hesap, cihaz ve uygulamalarımızı siber saldırganlara karşı savunmada hayati bir önem taşımaktadır. Araştırmalar göstermektedir ki, keskin kuralların olduğu profesyonel dünyada bile veri sızıntılarının büyük çoğunluğu insan hatalarından kaynaklanmaktadır. Bu hataların büyük çoğunluğu ise parolaların oluşturulması veya kullanılması ile ilgili temel kurallara uymamaktan kaynaklanmaktadır.</p>
+
+
+
+<p>Sonuç olarak dijital hayatta parolalar hepimiz için bir güvenlik aracı olmaktan daha çok bir stres ve tehlike unsuru olmaya başlamıştır. İşte bu problemleri çözmenin ve parolalarınızı korumanın en güvenli ve kolay yolu bağımsız bir parola yöneticisi kullanmaktadır.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Parola Yöneticisi Nedir?</strong></h2>
+
+
+
+<p>Parola yöneticileri, bir ana şifre kullanarak tüm şifrelerinizi, kredi kartlarınızı, kimlik bilgilerinizi, veya diğer hassas notlarınızı güvenli bir şekilde depolamanıza ve yönetmenize olanak sağlayan bir yazılımdır.</p>
+
+
+
+<p>Parola Yöneticileri sayesinde kaydolduğunuz her site veya servis için benzersiz ve karmaşık parolalar oluşturabilirsiniz. Hatta bazı parola yöneticileri her web sitesi için farklı email adresleri oluşturmayı da desteklemektedir. Rahatsız edildiğinizde veya spama maruz kaldığınızda tek yapmanız gereken o site için benzersiz olarak üretilmiş email adresini silmektir.</p>
+
+
+
+<p>Bazı parola yöneticileri, kullanıcı adı, email ve parolalarınızın herhangi bir veri sızıntısında veya ele geçirilmiş parola listelerinde geçip geçmediğini otomatik olarak kontrol eder ve bir eşleşme bulduğunda size bilgi vererek gerekli önlemleri almanız yardım eder.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Neden bağımsız bir Parola Yöneticisi kullanmalısınız?</strong></h2>
+
+
+
+<p>Tarayıcı ve işletim sistemlerinde yerleşik olarak bulunan parola yöneticileri basit çözümler gibi görünse de, bağımsız parola yöneticileri ile karşılaştırıldığında doğal olarak bazı <a href="https://proton.me/blog/google-password-manager-security" target="_blank" rel="noreferrer noopener">dezavantajlara</a> sahiptir. </p>
+
+
+
+<p>Örneğin, Microsoft Edge&#8217;in parola yöneticisi hiçbir şekilde uçtan uca şifrelemeyi (End-to-End Encryption) kullanmanıza olanak sağlamaz. Google Chrome&#8217;ın parola yöneticisi isteğe bağlı olarak uçtan uca şifreleme özelliği sunar. Kullanıcı olarak sizin bu özelliği aktifleştirmeniz gerekir. Ayrıca şifrelerinize erişmeniz Google veya Microsoft hesabınızı devamlı açık tutmanız gerekir ki bu da tüm internet trafiğinin aktif olarak izlenmesine neden olur.</p>
+
+
+
+<p>Apple&#8217;ın parola yöneticisi varsayılan olarak uçtan uca şifrelemeyle verilerinizi korur, ancak sizi kendi sistemlerine bağlar, şifreleri başka bir tarayıcı veya işletim sisteminde kullanmak veya özellikleri kullanmak için kolayca dışa aktarmanıza izin vermez ve çünkü Apple kapalı kaynaklı bir yazılımıdır.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Parola Yöneticisi kullanmada önemli hususlar</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Güçlü bir parola en az 14 karakterden oluşmalıdır, en az bir büyük karakter sayı ve özel karakter içermelidir. Kaynak: <a target="_blank" rel="noreferrer noopener" href="https://bitwarden.com/blog/how-long-should-my-password-be/">Bitwarden</a></li>
+
+
+
+<li>Parola yöneticinizin parola oluşturucu özelliklerini bu şartları oluşturacak şekilde değiştirebilirsiniz.</li>
+
+
+
+<li>Prensip olarak 2 adımlı doğrulama kodlarını ve kurtarma kodlarını parola yöneticinizde saklanmanızı tavsiye etmiyoruz. Bunun için iki adımlı kimlik doğrulama cihazları ve uygulamaları ile ilgili önerilerimize göz atın.</li>
+
+
+
+<li>Kurtarma kodlarını ise şifreli başka bir cihazda veya internete bağlı olmayan bir cihazda saklamanızı öneriyoruz.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://bitwarden.com/" target="_blank" rel="noreferrer noopener">1. Bitwarden</a></h2>
+
+
+
+<p>Bitwarden bulut tabanlı, ücretsiz ve açık kaynaklı bir parola yöneticisidir. Tüm masaüstü ve mobil işletim sistemlerinde uygulamaları ve tarayıcılar için eklentileri mevcuttur. Ücretsiz sürümü ortalama bir kişinin ihtiyaçlarını karşılayacak nerdeyse tüm özellikleri içermektedir. Çeşitli email takma adı servislerinin API altyapısını kullanarak otomatik olarak her siteye özgü email adresi üretebilmek mümkündür. Önerdiğimiz parola yöneticileri içinde özellik açısından en zengin olan parola yöneticisidir. </p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://proton.me/tr/pass">2. Proton</a><a href="https://proton.me/tr/pass" target="_blank" rel="noreferrer noopener"> </a><a href="https://proton.me/tr/pass">Pass</a></h2>
+
+
+
+<p>Proton firması tarafından geliştirilen Proton Pass, 2023 yılında tüm platformlar için kullanıma sunulmuştur. Ücretsiz sürümünde 10 farklı email takma adı oluşturulmasına izin vermektedir. Kullanıcı arayüzü Bitwarden&#8217;a göre daha güzeldir. Halihazırda web üzerinden şifre ve hesaplarınıza erişmek mümkün değildir, ancak yakın zamanda bu özelliğin de uygulamaya kazandırılması beklenmektedir. Masaüstü ve mobil işletim sistemleri ile tüm tarayıcılara yönelik eklentiler mevcuttur. </p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://strongboxsafe.com/" target="_blank" rel="noreferrer noopener">3. Strongbox (iOS &amp; macOS)</a></h2>
+
+
+
+<p>Strongbox, Apple işletim sistemleri için yerel, açık kaynaklı bir parola yöneticisidir. Hem KeePass hem de Password Safe formatlarını destekleyen Strongbox, Apple dışı platformlarda da KeePassXC gibi diğer parola yöneticileriyle birlikte kullanılabilir. Biometrik şifreleme ve diğer bazı özellikler için premium üyelik sahibi olmanız gerekmektedir. Ayrıca şifrelerinizi istediğiniz bulut sunucusu üzerinden senkronize etmenize izin vermektedir.</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://keepassxc.org/" target="_blank" rel="noreferrer noopener">4. KeePassXC</a></h2>
+
+
+
+<p>KeePassXC, KeePassX&#8217;in üzerinden masaüstü cihazlar için geliştirilmiş ve modern bir açık kaynaklı parola yöneticisidir. </p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a rel="noreferrer noopener" href="https://www.keepassdx.com/" target="_blank">5. KeePassDX</a></h2>
+
+
+
+<p>KeePassDX, KeePass üzerinden Android için geliştirilmiş bir parola yöneticisidir, şifrelenmiş verilerin KeePass formatında tek bir dosyada düzenlenmesine izin verir.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Parola yöneticileri için belirlediğimiz zorunlu Kriterler</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Uygulamalar açık kaynak kodlu olmalıdır.</li>
+
+
+
+<li>Güçlü, standartlara dayalı ve modern uçtan uca şifreleme teknolojisi kullanmalıdır.</li>
+
+
+
+<li>Kullanılan şifreleme ve güvenlik uygulamaları kapsamlı şekilde açıklanmış olmalıdır.</li>
+
+
+
+<li>Saygın, bağımsız bir güvenlik firması tarafından denetlenmiş ve sonuçları yayınlanmış olmalıdır.</li>
+
+
+
+<li>Gerekli olmayan tüm telemetriler isteğe bağlı olmalıdır.</li>
+
+
+
+<li>Parolalar ve diğer tüm verilerin kullanıcı tarafından dışarı aktarılmasına izin vermelidir.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>İsteğe bağlı Kriterler:</strong></h2>
+
+
+
+<ul class="wp-block-list">
+<li>Bulut tabanlı senkronizasyona seçeneğinin olması.</li>
+
+
+
+<li>Masaüstü İşletim Sistemleri, mobil cihazlar ve Firefox ve Chromium tabanlı tarayıcılar için uygulama/eklentiler sunmalıdır.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>VPN&#8217;ler Hakkında Bilmeniz Gerekenler</title>
+		<link>https://gizlikalsin.com/vpnler-hakkinda-bilmeniz-gerekenler/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 07:35:08 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[anonimlik]]></category>
+		<category><![CDATA[gizlilik]]></category>
+		<category><![CDATA[Proton]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[VPN]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=336</guid>
+
+					<description><![CDATA[VPN Nedir? Sanal Özel Ağ (VPN), ağınızı dünyanın başka bir yerinde çıkış yapacak şekilde genişleten bir araçtır. İnternet trafiğinizi başka bir konumda bulunan bir sunucuya yönlendirerek, İnternet Servis Sağlayıcınızın (ISS) çevrimiçi etkinliğinizi izlemesini zorlaştırır. VPN Kullanmak Hangi Durumlarda Faydalıdır? VPN Kullanmalı mıyım? Bu tamamen ne elde etmek istediğinize bağlıdır. Çoğu durumda, VPN kullanmak, riskleri ISS&#8217;nizden [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">VPN Nedir?</h2>
+
+
+
+<p>Sanal Özel Ağ (VPN), ağınızı dünyanın başka bir yerinde çıkış yapacak şekilde genişleten bir araçtır. İnternet trafiğinizi başka bir konumda bulunan bir sunucuya yönlendirerek, İnternet Servis Sağlayıcınızın (ISS) çevrimiçi etkinliğinizi izlemesini zorlaştırır.</p>
+
+
+
+<h2 class="wp-block-heading">VPN Kullanmak Hangi Durumlarda Faydalıdır?</h2>
+
+
+
+<ul class="wp-block-list">
+<li>Sansürü atlamak</li>
+
+
+
+<li>İnternet trafiğinizi ve indirmelerinizi ISS&#8217;nizden ve telif haklarıyla ilgili kuruluşlardan gizlemek.</li>
+
+
+
+<li>IP adresinizi üçüncü taraf web siteleri ve hizmetlerden gizlemek ve IP tabanlı izlemeyi önlemek.</li>
+
+
+
+<li>Özellikle havaalanı ve kafeler gibi halka açık Wi-Fi ağlarında gizlilik ve güvenliği sağlamak.</li>
+
+
+
+<li>Coğrafi kısıtlamaları olan web sitelerine (örneğin, Netflix) ve yayın hizmetlerine sınırsız erişim sağlamak.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">VPN Kullanmalı mıyım?</h2>
+
+
+
+<p><br>Bu tamamen ne elde etmek istediğinize bağlıdır. Çoğu durumda, VPN kullanmak, riskleri ISS&#8217;nizden VPN sunucusuna kaydırır ve IP adresinizi gizler, bu nedenle genellikle faydalı olabilir. Bununla birlikte, VPN&#8217;lerin, verilerinizi cihazınız ve VPN sunucusu arasındaki bağlantı dışında şifrelemesi mümkün değildir, yani VPN ağına bağlandığınızdan ve ağ ayarlarınızın düzgün yapılandırıldığından emin olmanız gerekmektedir.</p>
+
+
+
+<h2 class="wp-block-heading">VPN&#8217;ler ne zaman Gereksizdir?</h2>
+
+
+
+<p><br>Bir VPN kullanmak, bankanızın web sitesine giriş yapma gibi bilinen kimliğinizle işlem yaptığınız durumlarda faydalı olmayabilir. Bu, istenmeyen e-posta ve dolandırıcılık tespit sistemlerinin tetiklenmesine, yani bol bol robot musun sorusunun sorulmasına neden olabilir.</p>
+
+
+
+<h2 class="wp-block-heading">VPN&#8217;ler ve Anonimlik: Bir VPN beni %100 anonim yapabilir mi?</h2>
+
+
+
+<p><br>Hayır, sadece bir VPN kullanmak %100 anonimlik sağlayamaz. IP adresinizi gizleyebilir ve trafiğinizi şifreleyebilir, ancak tarayıcı parmak izlemesi, ödeme yöntemlerinin VPN sağlayıcınıza bağlantısı gibi çevrimiçi anonimliği ortadan kaldıran diğer yöntemlere karşı koruma sağlayamaz. Ama unutmayın ki çoğu durumda anonim olmaya değil <a href="https://gizlikalsin.com.ibrave.host/temel-kavramlar/"><strong>çevrimiçi gizliliğe</strong></a> ihtiyaç duyarız.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Neden çoğu ücretsiz VPN tehlikelidir?</strong></h2>
+
+
+
+<p>Farklı ülkelerde VPN sunucuları açmak ve işletmek maaliyetlidir. Dolayısıyla ücretsiz sağlanacak bu hizmetin arkasındaki kuruluşları bilmek çok önemlidir.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Çoğu ücretsiz VPN, Çin şirketlerine aittir ve bunlardan bazıları kötü amaçlı faaliyetlerde bulunur.</li>
+
+
+
+<li>Kullanıcı etkinliğinizi izleyerek ve verileri üçüncü taraflarla paylaşarak gelir elde etmeye çalışabilirler.</li>
+
+
+
+<li>Yapılan çalışmalar, ücretsiz VPN&#8217;lerin büyük bir yüzdesinin kullanıcı verilerini sızdırdığını göstermiştir. 2016 yılında yapılan bir <a href="https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf">araştırma</a>, ücretsiz Android VPN uygulamalarının %84&#8217;ünün kullanıcı verilerini sızdırdığını bulmuştur.</li>
+</ul>
+
+
+
+<p>Sonuç olarak, bir VPN&#8217;nin size nasıl fayda sağlayabileceğini tam olarak anlamak, VPN hizmeti sunan şirketi araştırmak ve sıkça youtuber&#8217;lar tarafından reklamı yapılan VPN&#8217;lerden kaçınarak belirli kriterleri karşılayan güvenilir VPN firmalarını seçmek, çevrimiçi gizliliğinizi korumak için son derece önemlidir.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://cdn-images-1.medium.com/max/800/1*5ONQ42mvbn7ZZRNCKxtkjA.png" alt=""/><figcaption class="wp-element-caption">VPN Karşılaştırma Tablosu</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">VPN seçerken dikkat edilmesi gereken kriterler?</h2>
+
+
+
+<p><strong>Zorunlu Kriterler</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>VPN uygulamalarının açık kaynak kodlu olması,</li>
+
+
+
+<li>Güvenilir güvenlik firmaları tarafından bağımsız güvenlik denetlemelerinin yapılması</li>
+
+
+
+<li>OpenVPN, Wireguard gibi modern protokolleri desteklemesi,</li>
+
+
+
+<li>Şeffafiyete önem vermesi ve yanıltıcı reklamlardan kaçınması</li>
+
+
+
+<li>(Mükemmel)<strong> İ<a href="https://en.wikipedia.org/wiki/Forward_secrecy" target="_blank" rel="noreferrer noopener">leriye Dönük gizlilik</a> </strong>protokolünün kullanılması</li>
+
+
+
+<li>Kripto Para ile Ödeme Kabul Etmesi</li>
+
+
+
+<li>Bağlantı kesme özelliği (Kill Switch)</li>
+
+
+
+<li>Güçlü Şifreleme Algoritmaları Kullanılması</li>
+</ul>
+
+
+
+<p><strong>İsteğe Bağlı Kriterler</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://en.wikipedia.org/wiki/Port_forwarding#Remote_port_forwarding" target="_blank" rel="noreferrer noopener">Uzaktan port yönlendirme</a> özelliği (P2P ağlarının kullanılması durumunda faydalıdır. )</li>
+
+
+
+<li>Çoklu bağlantı seçeneği (Multi-hop)</li>
+</ul>
+
+
+
+<p>Belirlediğimiz kriterler doğrultusunda tavsiye ettiğimiz VPN&#8217;ler:</p>
+
+
+
+<h1 class="wp-block-heading">1. <a href="https://protonvpn.com/tr">ProtonVPN</a></h1>
+
+
+
+<p>ProtonVPN, İsviçre merkezli VPN hizmeti sağlayıcısıdır. 67 farklı ülkede sunucuları bulunmaktadır. Diğer yazılarımızda tavsiye ettiğimiz Protonmail, Proton Calendar, Proton Pass, Proton Drive ve SimpleLogin gibi hizmetleri de sağlayan Proton şirketi tarafından geliştirilmiştir. Tavsiye ettiğimiz VPN&#8217;ler içerisinde ücretsiz hesaplara herhangi bir kota kısıtı getirmeyen tek firmadır.&nbsp;</p>
+
+
+
+<h1 class="wp-block-heading">2. <a href="https://tur.windscribe.com/">Windscribe</a></h1>
+
+
+
+<p>Windscribe, Kanada kökenli bir VPN hizmeti sağlayıcısıdır. 63 farklı ülkede sunucuları bulunmaktadır. Email adresi ile kaydolmanız durumunda aylık 10 gb ücretsiz kullanım hakkı vermektedir. Uzaktan port yönlendirme özelliği (Port forwarding) bulunmaktadır.</p>
+
+
+
+<h1 class="wp-block-heading">3. <a href="https://mullvad.net/tr">Mullvad</a></h1>
+
+
+
+<p>Mullvad İsveç kökenli bir VPN sağlayıcısıdır. İsveç&#8217;de gelen gözetleme yasalarına tepki olarak kurulmuştur. Mullvad aynı zamanda Tor projesi ile birlikte geliştirdiği Mullvad Browser&#8217;ı geliştirmektedir. Kayıt olabilmek için email, kullanıcı adı vs. gerekmez.&nbsp;Ücretsiz versiyonu yoktur.</p>
+
+
+
+<h1 class="wp-block-heading">4. <a href="https://www.ivpn.net/">IVPN</a></h1>
+
+
+
+<p>IVPN Gibraltar merkezli bir VPN sağlayıcısıdır. 35 farklı ülkede sunucuları bulunmaktadır. Kayıt olabilmek için email, kullanıcı adı vs. gerekmez. Ücretsiz versiyonu yoktur.</p>
+
+
+
+<h1 class="wp-block-heading">5. <a href="https://guardianproject.info/apps/org.torproject.android/">Orbot</a></h1>
+
+
+
+<p>Orbot, mobil cihazlar için geliştirilmiş ücretsiz ve açık kaynaklı bir VPN uygulamasıdır. Orbot cihaz trafiğini sadece Tor ağı üzerinden yönlendirir. Dolayısıyla bağlantı hızı çok yavaştır ve bazı sitelerde bloklanma ve spam olarak algılanma ihtimali vardır.</p>
+
+
+
+<p>Eğer sadece internette güvenle gezinmek istiyor ve mobil tarayıcı dışında diğer uygulamalarınızın tor ağı üzerinden şifrelenmesine ihtiyaç duymuyorsanız, tor browser&#8217;ın <a href="https://www.torproject.org/tr/download/#android">android</a> uygulamasını veya iOS için <a href="https://support.torproject.org/tormobile/tormobile-3/">Onion</a>&nbsp;Browser uygulamasını kullanabilirsiniz.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>İnternet Tarayıcıları</title>
+		<link>https://gizlikalsin.com/internet-tarayicilari/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 18:28:39 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[brave]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[tarayıcı]]></category>
+		<category><![CDATA[Tor]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=323</guid>
+
+					<description><![CDATA[1. Mozilla Firefox Mozilla Firefox, açık kaynak kodlu bir tarayıcıdır. Yüksek özelleştirilebilirlik, mükemmel gizlilik ve güvenlik özellikleri sunar. Kullanıcıların geçmişlerini, sekmelerini, yer imlerini ve eklentilerini Firefox hesabı kullanarak uçtan uca şifreleme ile senkronize etmelerine izin verir. Dahili parmak izi toplayıcı engelleyici (fingerprinting protection) ve takipçi engelleyici bulunmaktadır. Mobil cihazlarda maksimum gizlilik için Firefox Focus iyi [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading"><strong>1. <a rel="noreferrer noopener" href="https://www.mozilla.org/tr/firefox/new/" data-type="URL" data-id="https://www.mozilla.org/tr/firefox/new/" target="_blank">Mozilla Firefox</a></strong></h2>
+
+
+
+<p>Mozilla Firefox, açık kaynak kodlu bir tarayıcıdır. Yüksek özelleştirilebilirlik, mükemmel gizlilik ve güvenlik özellikleri sunar. Kullanıcıların geçmişlerini, sekmelerini, yer imlerini ve eklentilerini Firefox hesabı kullanarak uçtan uca şifreleme ile senkronize etmelerine izin verir. Dahili parmak izi toplayıcı engelleyici (fingerprinting protection) ve takipçi engelleyici bulunmaktadır. Mobil cihazlarda maksimum gizlilik için Firefox Focus iyi bir seçenektir.</p>
+
+
+
+<p>Firefox&#8217;u maksimum gizlilik ve güvenlik için nasıl yapılandırabileceğinizle ilgili detaylı yapılandırma bilgileri <a href="https://www.privacyguides.org/en/desktop-browsers/#recommended-configuration"><em><strong>PrivacyGuides</strong></em></a> ve <a href="https://github.com/arkenfox/user.js"><em><strong>Arkenfox</strong></em></a> sayfalarını inceleyebilirsiniz.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>2. <a rel="noreferrer noopener" href="https://brave.com/" data-type="URL" data-id="https://brave.com/" target="_blank">Brave Browser</a></strong></h2>
+
+
+
+<p>Brave Browser, açık kaynak Chromium projesine dayanan hızlı ve gizlilik odaklı bir tarayıcıdır. Varsayılan olarak reklamları ve takipçileri engeller ve birçok özelleştirme seçeneği sunar. Kendi arama motoru ve çeviri özelliğine sahiptir ve ekstra gizlilik için yapılandırılmıştır. Brave, reklam engelleyici (ad blocker), tarayıcı parmak izi toplayıcı engelleyici gibi dahili özelliklerle birlikte gelir. Tor Ağı&#8217;na tarayıcı değiştirmeden kolay erişim imkanı sağlar ve Brave News adında bir RSS haber okuyucusu içerir.</p>
+
+
+
+<p>Brave Tarayıcısını maksimum gizlilik ve güvenlik için nasıl yapılandırabileceğinizle ilgili detaylı yapılandırma bilgileri&nbsp;​​​​​​​<a href="https://www.privacyguides.org/en/desktop-browsers/#recommended-configuration_1"><em><strong>PrivacyGuides</strong></em></a>&nbsp;sayfasından öğrenebilirsiniz.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>3. <a href="https://www.torproject.org/tr/download/">Tor Browser</a></strong></h2>
+
+
+
+<p>Tor Tarayıcısı, tamamen güvenlik ve anonimlik için yapılandırılmış bir tarayıcıdır. Tor Tarayıcısı tam olarak bir VPN değildir, ancak Tor ağı ve Tarayıcısı&#8217;nın bir kombinasyonudur. Gezinme geçmişini veya çerezleri kaydetmez ve web sitelerinin kullanıcıları tarayıcı yapılandırmalarına dayanarak tespit edilmesini önlemek (browser fingerprinting) için standart bir yapılandırmayı kullanır. <strong>Bundan dolayı Tor Browser hakkında detaylı bilginiz yoksa STANDART ayarları kesinlikle değiştirmemeniz ve herhangi bir sitede hesap açmamanız gerekmektedir.</strong></p>
+
+
+
+<p>Onion Network tıpkı bir soğan zarı gibidir ve kullanıcıları farklı katmanlar kullanarak internete eriştirir. Dolayısıyla bir kullanıcının kimliğinin deşifre edilmesi için tüm katmanlardaki verilere erişilmesi gerekmektedir ve siz kullanım esnasında bir hata yapmadığınız sürece kullanıcıların deşifre edilmesi teknik olarak çok çok zordur. Yani peşinize gerçekten filmlerdeki gibi istihbarat kuruluşlarının düşmesi lazım. Tabi Tor&#8217;un en güçlü özellikleri yanında önemli bir dezavantaj getirmekte: o da internet hızının çok ciddi şekilde düşmesi veya belirli sitelerin çalışmamasıdır.</p>
+
+
+
+<p>Hükümetler Tor&#8217;u engellediğinde ek bağlantılar olan köprüleri sağlayarak bilgiye ücretsiz erişim sağlar ve bu yönüyle Tor Browser her yerde bilgiye özgürce erişilmesini saplar. Kullanıcıları arasında sıradan vatandaşlar, gazeteciler, muhalifler, istihbarat ajansları ve kimliklerini gizlemek isteyen diğer farklı gruplar bulunmaktadır.</p>
+
+
+
+<p>Dark web ve suçlularla ismi anılıyor gibi gözükse de, iki tarafın tamamen anonim şekilde iletişim kurmasını sağlayan &#8216;Soğan Yönlendirme (Onion Routing)&#8217; teknolojisi ilk defa ABD Deniz Kuvvetleri tarafından oluşturulmuş bir teknolojidir. Tor&#8217;un finansal destekçileri arasında üniversiteler, Elektronik Özgürlük Vakfı (EFF), ve ABD hükümeti gibi farklı yelpazeden birçok kurum ve kuruluş vardır. Hatta geçmişte ABD hükümeti projenin en büyük finansal destekçilerinden biriydi.&nbsp;Neticede herkesin anonimliğe ihtiyacı vardır değil mi?</p>
+
+
+
+<h2 class="wp-block-heading"><strong>4. <a rel="noreferrer noopener" href="https://mullvad.net/en/download/browser/windows" data-type="URL" data-id="https://mullvad.net/en/download/browser/windows" target="_blank">Mullvad Browser</a></strong></h2>
+
+
+
+<p>Mullvad Browser VPN kullanıcılarına Tor Tarayıcısındaki Parmak izi toplayıcı engelleme teknolojilerini sunmak için tasarlanmış bir tarayıcıdır. Yani tor ağı yerine tercih ettiğiniz VPN&#8217;i kullandığınız için internet hızından fedakarlık yapmanız gerekmez. Diğer yandan kullanıcıların tarayıcı parmak izleri aynı olduğundan Tor&#8217;a yakın derece bir gizlilik sağlar. uBlock Origin ve NoScript tarayıcı eklentileri ön yüklü olarak gelir ve sürekli gizli sekme modunda çalışır, yani geçmişi, site bilgilerini hatırlamaz ve çerezleri otomatik siler.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Tarayıcı Gizliliği ve Dijital Hayatı Bölümlere Ayırma</strong></h2>
+
+
+
+<p>Tarayıcı gizliliği ve güvenliği ile sıklıkla karşılaşılan bir sorun (hatta aynı durum email, işletim sistemi ve diğer teknolojiler için de geçerlidir), insanların web&#8217;de gezinirken çeşitli hesaplarda oturumlarının açık kalmasına ihtiyaç duymasıdır. Özellikle iş ve kişisel hayatınız için tek bir bilgisayar kullanıyorsanız bu sorun daha da önem kazanır. Örneğin; Google Workspace, Microsoft, Meta Business Suite gibi uygulamalarda oturumunuz açık iken kişisel servislerinizi kullanmaya ihtiyacınız olacaktır. Bu da tarayıcı etkinliğinizin devamlı kaydedilmesi demektir.</p>
+
+
+
+<p>Bu soruna potansiyel bir çözüm dijital hayatınızı, tarayıcıları ve tarayıcı profillerini ayırmaktır. Her bir farklı alan için farklı tarayıcı veya tarayıcı profili kullanılabilir. [Profillerle konusunda detaylı bilgi için <a href="https://www.howtogeek.com/209320/how-to-set-up-and-use-multiple-profiles-user-accounts-in-firefox/"><strong>Firefox</strong></a> ve <a rel="noreferrer noopener" href="https://support.google.com/chrome/answer/2364824?hl=trid" target="_blank"><strong>Chrome</strong></a> sayfalarını ziyaret edebilirsiniz.]</p>
+
+
+
+<p>Bunu hemen örnekle açıklayıp daha da somutlaştıralım.</p>
+
+
+
+<p>Ali işi gereği Google Workspace kullanmak zorunda. Aynı zamanda youtube, facebook gibi sosyal medya mecralarında da hesabını açık tutmak istiyor. Diğer yandan yaptığı tüm faaliyetlerin teknoloji şirketleri tarafından kayıt altına alınmasını istemiyor.&nbsp;</p>
+
+
+
+<p><strong>1. Tarayıcı Firefox:</strong> Kişisel kullanım, internette bir şeyler araştırmak, email vb. amaçlarla firefox kullanıyor.</p>
+
+
+
+<p><strong>2. Brave Tarayıcıda İş Profili:</strong> İş yerindeki faaliyetlerini tamamen Brave Browser üzerinden yapıyor ve oturumu açık kalıyor. Gerekirse ihtiyacı olan eklentileri de buraya kuruyor.</p>
+
+
+
+<p><strong>3. Brave Tarayıcıda akademik Profil:</strong> Yaptığı doktora projesi gereği üniversitenin sağladığı bir microsoft hesabı var. Ayrıca akademik camiada kullanılan bazı eklentileri kurması gerekiyor. Dolayısıyla bunlar ne iş ile ne de kişisel hayatıyla karışıyor.&nbsp;</p>
+
+
+
+<p><strong>4. Tor Tarayıcı:</strong> Ali aynı zamanda hassas konularda araştırma yapmak istiyor. Bunun için ise Tor Tarayıcıyı kullanıyor. Dolayısıyla ne IP adresi, ne de tarayıcılarının bilgileri diğer kişisel ve iş hayatı karışmıyor.&nbsp;<br>Burada önemli olan, bölümlendirmeyi sıkı tutmak ve her tarayıcı için belirlenen kuralları ve kullanımları ihlal etmemektir.</p>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><strong>Zorunlu kriterler</strong></a></div>
+</div>
+
+
+
+<ul class="wp-block-list">
+<li>Tarayıcı açık kaynak kodlu olmalıdır.</li>
+
+
+
+<li>Otomatik güncellemeleri desteklemeli ve upstream sürümünden en fazla bir gün sonra güncellenmelidir</li>
+
+
+
+<li>Tüm ana platformlarda kullanılabilir olmalıdır.</li>
+
+
+
+<li>Dahili takipçi ve reklam engelleyici içermesi,</li>
+</ul>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">İsteğe Bağlı Kriterler</a></div>
+</div>
+</div>
+
+
+
+<ul class="wp-block-list">
+<li>Varsayılan olarak üçüncü taraf çerezlerini (Third-party cookies) engellemesi,</li>
+
+
+
+<li>Uçtan uca şifreleme kullanarak yer imi, eklentiler, tarayıcı geçmişi ve ayarlarınızı başka cihazlarla eşitlemeye izin vermesi,</li>
+
+
+
+<li>Gizliliğe saygılı bir arama motoruna yönlendirilmiş olması.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>E-Posta Servisleri</title>
+		<link>https://gizlikalsin.com/e-posta-servisleri/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Sun, 09 Jul 2023 14:43:00 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[Eposta]]></category>
+		<category><![CDATA[Proton]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=309</guid>
+
+					<description><![CDATA[​​​​​​​ E-posta, modern dünyada hepimiz için vazgeçilmez bir iletişim aracıdır. Ancak, ücretsiz e-posta hizmetleri sunan Google ve Microsoft gibi büyük şirketler, kişisel verilerinizi gelir elde etmek için kullanırlar. Bu, epostalarınızın, arama geçmişinizin ve diğer kişisel bilgilerinizin rızanız olmadan üçüncü taraflar veya yapay zeka araçları tarafından toplanabileceği, analiz edilebileceği ve satılabileceği anlamına gelir. Bu nedenle, gizlilik [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>​​​​​​​</p>
+
+
+
+<p>E-posta, modern dünyada hepimiz için vazgeçilmez bir iletişim aracıdır. Ancak, ücretsiz e-posta hizmetleri sunan Google ve Microsoft gibi büyük şirketler, kişisel verilerinizi gelir elde etmek için kullanırlar. Bu, epostalarınızın, arama geçmişinizin ve diğer kişisel bilgilerinizin rızanız olmadan üçüncü taraflar veya yapay zeka araçları tarafından toplanabileceği, analiz edilebileceği ve satılabileceği anlamına gelir. Bu nedenle, gizlilik dostu eposta hizmetleri kullanarak kişisel verilerinizi korumalısınız.&nbsp;</p>
+
+
+
+<p>İşte gizlilik ve güvenlik açısından dost bir e-posta hizmeti seçmek için belirlediğimiz zorunlu ve isteğe kriterler:</p>
+
+
+
+<p><strong>Zorunlu Kriterler:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Açık kaynak kodlu olması,</strong></li>
+
+
+
+<li><strong>E-postaları sıfır erişimli şifreleme (zero access encryption) ile saklaması,</strong></li>
+
+
+
+<li><strong>Bağımsız denetimlerden geçmiş olması,</strong></li>
+
+
+
+<li><strong>Gönderenin IP adresini gizlemesi,</strong></li>
+
+
+
+<li><strong>Gizlilik ve güvenlik konusunda iyi bir sicile sahip olması,</strong></li>
+
+
+
+<li><strong>E-postaların içe veya dışa aktarımına izin vermesi,</strong></li>
+
+
+
+<li><strong>Ücretsiz versiyonları olması,&nbsp;</strong></li>
+
+
+
+<li><strong>Kayıt sırasında telefon numarası, adres veya kredi kartı gibi kişisel tanımlayıcı bilgileri gerektirmemesi.</strong></li>
+</ul>
+
+
+
+<p><strong>İsteğe Bağlı Kriterler:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Takvim, sürücü ve e-posta takma adı gibi ek hizmetler sunması,</li>
+
+
+
+<li>Sağladığı ek hizmetleri de&nbsp;sıfır erişimli şifreleme&nbsp;ile şifremesi,</li>
+
+
+
+<li>Güçlü e-posta gizlilik koruma yasalarına sahip bir ülkede barındırılması.</li>
+</ul>
+
+
+
+<p>Bu kriterlere dayanarak, aşağıdaki e-posta hizmetlerini öneriyoruz:</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a href="https://proton.me/mail" data-type="URL" data-id="https://proton.me/mail" target="_blank" rel="noreferrer noopener">1- Proton Mail</a></h2>
+
+
+
+<p>Protonmail, CERN&#8217;de çalışan mühendisler tarafından geliştirilen, İsviçre merkezli bir e-posta hizmeti sağlayıcısıdır. Ücretsiz olarak takvim, depolama alanı (drive), VPN, parola yöneticisi ve e-posta takma adı hizmeti sunar.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading has-text-align-center"><a rel="noreferrer noopener" href="https://tutanota.com/" target="_blank">2- Tutanota</a></h2>
+
+
+
+<p>Tutanota, Almanya merkezli bir e-posta hizmeti sağlayıcısıdır. Eposta hesabıyla birlikte aynı zamanda ücretsiz takvim hizmeti sağlamaktadır.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mesajlaşma Uygulamaları</title>
+		<link>https://gizlikalsin.com/mesajlasma-uygulamalari/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Thu, 11 May 2023 18:54:24 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[gizlilik]]></category>
+		<category><![CDATA[Mesajlaşma]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=296</guid>
+
+					<description><![CDATA[Zorunlu Kriterler: İsteğe bağlı kriterler 1- Signal Signal, kullanımı kolay, gizlilik ve güvenliğe yüksek derecede önem veren, yaygın olarak saygı gören bir ve kar amacı gütmeyen Signal vakfı tarafından geliştirilmiş bir şifreli mesajlaşma uygulamasıdır. Signal&#160; uçtan uca şifreleme teknolojisini kullanmasının yanısıra, çok az sayıda meta veri toplaması ve telefon rehberiniz, profil fotoğrafınız ve durumunuz gibi [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Zorunlu Kriterler:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Uçtan uça şifreleme kullanılması</strong></li>
+
+
+
+<li><strong>Açık kaynak kodlu olması</strong></li>
+
+
+
+<li><strong>Bağımsız denetimlerden geçmiş olması</strong></li>
+</ul>
+
+
+
+<p>İsteğe bağlı kriterler</p>
+
+
+
+<ul class="wp-block-list">
+<li>Mükemmel iletme gizliliği (Perfect Forward Secrecy) özelliğinin olması</li>
+
+
+
+<li>En az miktarda metaveri toplanması</li>
+
+
+
+<li>Telefon numarası olmadan kayıt imkanı.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><a href="https://signal.org/">1- Signal</a></h2>
+
+
+
+<p>Signal, kullanımı kolay, gizlilik ve güvenliğe yüksek derecede önem veren, yaygın olarak saygı gören bir ve <strong>kar amacı gütmeyen</strong> Signal vakfı tarafından geliştirilmiş bir şifreli mesajlaşma uygulamasıdır. Signal&nbsp; <strong>uçtan uca şifreleme </strong>teknolojisini kullanmasının yanısıra, <strong>çok az sayıda meta veri</strong> toplaması ve telefon rehberiniz, profil fotoğrafınız ve durumunuz gibi birçok veriyi <strong>şifrelemesi</strong> sayesinde, çok güvenli bir iletişim hizmeti sunar.</p>
+
+
+
+<p>Siber güvenlik ve veri güvenliği uzmanları, gazeteciler ve birçok saygın kuruluş tarafından Signal uygulaması tavsiye edilmektedir. Signal sadece telefon numaranız, kayıt tarihiniz ve son olarak Signal uygulamasını kullandığınız zaman hiçbir meta veri tutmaz ve bu mahkemelerde de kanıtlanmıştır.</p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://simplex.chat/">2- Simplex Chat</a></h2>
+
+
+
+<p>SimpleX Chat, merkeziyetsiz ve telefon numaraları veya kullanıcı adları/numaraları gibi herhangi bir benzersiz tanımlayıcıya bağlı olmadan çalışan güvenli bir anlık mesajlaşma programıdır. SimpleX Chat kullanıcıları bir QR kodunu tarayabilir veya grup konuşmalarına katılmak için bir davet bağlantısını tıklayabilir. Simplex uygulaması tamamen <strong>anonimlik</strong> sağlar.</p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://element.io/">3- Element</a></h2>
+
+
+
+<p>Element, güvenli, merkeziyetsiz ve gerçek zamanlı iletişim için açık bir standart olan Matrix protokolünün ana uygulamasıdır. Temelde Slack ve Discord gibi uygulamalara benzemekte ve daha çok çevrimiçi topluluklar arası haberleşme gibi amaçlarla kullanılmaktadır. Özel odalarda (davet gerektiren) paylaşılan mesajlar ve dosyalar, bire bir sesli ve görüntülü görüşmeler gibi varsayılan olarak <strong>uçtan uca</strong> şifrelenmektedir. Merkeziyetsiz olduğundan verilerinizin depolandığı sunucuları seçebilir veya uygulamayı kendinize ait sunuclarda barındırabilirsiniz. Halihazırda grup görüşmeleri Jitsi protokolünü kullanmakta ve uçtan uca <strong>şifrelenmemektedir</strong>.</p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://wire.com/en/">4- Wire</a></h2>
+
+
+
+<p>Wire, güvenli mesajlaşma, grup sohbeti özellikleri, dosya paylaşımı ve harici müşterilerle güvenli bir şekilde işbirliği yapma becerisine sahip, saygın bir kurumsal mesajlaşma programıdır. Wire&#8217;a kayıt için email adresi yeterlidir ve yüksek seviyede gizliliğe ihtiyacınız varsa email takma adı servislerini kullanarak veya ikincil bir  bir emaille ile kaydolabilirsiniz. </p>
+
+
+
+<p>Wire temelde şirketlere yönelik geliştirilmiş bir uygulamadır ve kullanıcı sayısı <strong>çok azdır. </strong>Ücretsiz sürümünde özellikle toplu arama ve grup mesajlaşmalarında sınırlamalar vardır. Mesajlar ve aramalar uçtan uca şifrelense de, <em>iletişime geçtiğiniz herkesi sunucularında kaydetmekte</em> ve önemli miktarda meta veri toplanmaktadır.</p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://wire.com/en/">5- Briar</a></h2>
+
+
+
+<p>Briar, Tor Ağını kullanarak diğer istemcilere bağlanan şifreli bir anlık mesajlaşma programıdır. Briar, yerel yakınlıktayken Wi-Fi veya Bluetooth aracılığıyla da bağlanabilir. Briar&#8217;ın yerel ağ modu, internet kullanılabilirliğinin sorun olduğu durumlarda faydalı olabilir. Bu uygulama temelde gazeteciler, herhangi bir kurum içindeki usulsüzlükleri ifşaa eden muhbirler veya ifade özgürlüğü tehdit altında olan ülkelerde yaşayan bireyler için geliştirilmiştir, bu yüzden kullanıcı deneyimi diğer uygulamalar kadar gelişmiş değildir.<br></p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://wire.com/en/">6- Session</a></h2>
+
+
+
+<p>Session, gizli, güvenli ve anonim iletişime odaklanan merkezi olmayan bir mesajlaşma programıdır. Session mesajlar, grup sohbetleri ve sesli aramaları destekler ve verileri merkeziyetsiz olan ve Tor ağına benzeyen kendi ağı Oxen üzerinden iletir. Bu ağın kullanımı ve şifreleme teknolojisi sayesinde ne Session uygulaması, ne başka bir üçüncü parti kullanıcılar hakkında veri toplayamaz ve bu kullanıcılara anonimlik sağlar.&nbsp;</p>
+
+
+
+<p>Bu avantajların yanında, Session kullandığı Oxen ağı ve ağ altyapısındaki kısıtlamalar nedeniyle, <strong>Mükemmel iletme gizliliği teknolijisini </strong>uygulamamaktadır. Dolayısıyla kurtarma kodunuzun başka biri tarafından ele geçirilmesi durumunda başka bir cihazda oturumunuz açılabilir ve geçmiş mesajlarınıza erişilebilir. Buna kaybolan mesajlar da geçerlidir.<br></p>
+
+
+
+<h2 class="wp-block-heading">Whatsapp ve Telegram Neden Önerilen Uygulamalar Arasında Değil?</h2>
+
+
+
+<p>Öncelikle her iki uygulamanın da açık kaynak kodlu olmaması, bu şirketlerin verdikleri taahhütlerin ne kadarını gerçekte uyguladıklarının doğrulanmasını engellemektedir. Ayrıca Whatsapp uygulaması her ne kadar uçtan uca şifreleme teknolojisini uyguluyor olsa da, çok fazla miktarda metaveri toplamakta bunu facebook ile paylaşmaktadır. Telegramda ise grup yazışmalarında uçtan uca şifreleme kullanılamamakta, birebir mesajlaşmada ise her yazışma için gizli sohbet seçeneğinin seçilmesi gerekmektedir.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gizlilik ve Güvenlik Neden Önemlidir ?</title>
+		<link>https://gizlikalsin.com/gizlilik-ve-guvenlik-neden-onemlidir/</link>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Wed, 10 May 2023 13:36:29 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[anonimlik]]></category>
+		<category><![CDATA[gizlilik]]></category>
+		<category><![CDATA[güvenlik]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=212</guid>
+
+					<description><![CDATA[Gizlilik ve güvenlik, 7&#8217;den 70&#8217;e internet veya akıllı cihaz kullanan herkes için günlük hayatın ayrılmaz ve çok önemli bir parçasıdır.&#160;Akıllı telefonlar, dizüstü bilgisayarlar ve internet gibi teknolojilerin yaygınlaşması, kişisel bilgilerimizi ve dijital dünyada bıraktığımız izleri her zamankinden daha erişilebilir hale getirmiştir. Daha da önemlisi kullandığımız cihaz ve uygulamaların bizden hangi verileri topladığını ve bu verilerle [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<p>Gizlilik ve güvenlik, 7&#8217;den 70&#8217;e internet veya akıllı cihaz kullanan herkes için günlük hayatın ayrılmaz ve çok önemli bir parçasıdır.&nbsp;Akıllı telefonlar, dizüstü bilgisayarlar ve internet gibi teknolojilerin yaygınlaşması, kişisel bilgilerimizi ve dijital dünyada bıraktığımız izleri her zamankinden daha erişilebilir hale getirmiştir. Daha da önemlisi kullandığımız cihaz ve uygulamaların bizden hangi verileri topladığını ve bu verilerle bizim hakkımızda nasıl tahminler yapabileceklerini ve bunları nasıl sattıkları hakkında çok az fikir sahibiyiz.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/05/wiretap-683x1024.jpeg" alt="Telefon dinlemesi" class="wp-image-213" width="433" height="650" srcset="https://gizlikalsin.com/wp-content/uploads/2023/05/wiretap-683x1024.jpeg 683w, https://gizlikalsin.com/wp-content/uploads/2023/05/wiretap-200x300.jpeg 200w, https://gizlikalsin.com/wp-content/uploads/2023/05/wiretap-768x1152.jpeg 768w, https://gizlikalsin.com/wp-content/uploads/2023/05/wiretap-1024x1536.jpeg 1024w, https://gizlikalsin.com/wp-content/uploads/2023/05/wiretap-1365x2048.jpeg 1365w, https://gizlikalsin.com/wp-content/uploads/2023/05/wiretap-scaled.jpeg 1707w" sizes="(max-width: 433px) 100vw, 433px" /></figure>
+
+
+
+<p>Bundan 20-30 yıl önce yasal olmayan bir telefon dinlemesinin yapılması büyük yankı uyandırırken bugün birçoğumuz kullandığımız basit uygulamaların bile kamera, mikrofon, konum, fotoğraf arşivi, hatta ve hatta bedensel hareketlerimizi takip etmek için izin istemesine karşılık biz sadece evet demekten başka çok birşey yapamıyoruz.</p>
+
+
+
+<p>Özellikle devletler ve büyük teknoloji şirketleri tarafından uygulanan kitlesel gözetleme teknikleri ve teknolojileri, gizliliğin önemini daha da artırmıştır. Maalesef son 5-10 yılda gelişen teknolojiler ile birlikte büyük küçük birçok şirket&nbsp;kişisel verilerimizi toplamak, bunları işlemek ve satmak için adeta bir yarış içerisine girmişlerdir. Artık, girdiğimiz tüm siteler&nbsp;önümüze (zorunlu) izin menüleri koyuyor. Detaylarını öğrenmek için ise ortalama bir insanın anlamayacağı, anlasa bile okumayacağı şekilde karmaşık ve uzun Gizlilik Politikaları veya Aydınlatma&nbsp; Metinleri, verilerinizi topladıktan sonra her türlü amaç için satabileceklerine dair izin verdiğimizi ifade ediyorlar.</p>
+
+
+
+<p>Bazı genel bilinen örnekler vermek gerekirse, yapılan araştırmalar gösteriyor ki sosyal medya ile büyüyen nesiller 2 kat fazla intihar ediyor, depresyon oranları gittikçe artıyor. Yetişkinlerde ise toplumsal kutuplaşma had safhada, karşıt görüşte olanlar birbirini hiç duymuyor. Hatta daha da ötesi ABD, İngiltere gibi ülkelerde vatandaşların verilerinin toplanması ile seçimler manipüle ediliyor. Bu ülkeler şanslılar arasında sayılabilir, çünkü skandallar bu ülkelerde patlak verdiği ve soruşturmalar açıldığı için bu ülkeleri ismen biliyoruz, ama direk bahse konu şirket içindeki tanıklar bu manipülasyonun, dünyada en az 50-60 ülkede daha gerçekleştirildiği söylüyor, ancak isimlerini alenen açıkla(ya)mıyor.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" decoding="async" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/05/oranlar-530x1024.png" alt="" class="wp-image-217" width="398" height="768" srcset="https://gizlikalsin.com/wp-content/uploads/2023/05/oranlar-530x1024.png 530w, https://gizlikalsin.com/wp-content/uploads/2023/05/oranlar-155x300.png 155w, https://gizlikalsin.com/wp-content/uploads/2023/05/oranlar-768x1483.png 768w, https://gizlikalsin.com/wp-content/uploads/2023/05/oranlar-795x1536.png 795w, https://gizlikalsin.com/wp-content/uploads/2023/05/oranlar-1061x2048.png 1061w, https://gizlikalsin.com/wp-content/uploads/2023/05/oranlar.png 1260w" sizes="(max-width: 398px) 100vw, 398px" /></figure>
+
+
+
+<p class="has-text-align-center">Kaynak: <a href="https://www.nbcnews.com/news/us-news/social-media-contributing-rising-teen-suicide-rate-n812426">NBC</a> </p>
+
+
+
+<p>Ayrıca, gizlilik, insanların kişisel hayatları üzerinde kontrol sahibi olmalarını sağlar. İnternet üzerinde erişilen çok fazla bilgi, kişisel verilerin nasıl kullanılacağını kontrol etmekte zorluk çekebilmemize neden olabilir. Gizlilik, kişisel bilgilerimize kimin erişebileceğini ve nasıl kullanılacağını belirleme imkanı verir ve kişisel hayatlarımız üzerinde kontrol sahibi olmamıza yardımcı olur.</p>
+
+
+
+<p>Sonuç olarak, gizlilik bireysel özgürlüklerin korunmasını sağlar ve dijital gözetim uygulamaları, gizliliğin önemini daha da vurgular.</p>
+
+
+
+<p>Peki tablo bu kadar karamsar mı, ortalama bir vatandaş olarak ne yapabiliriz? Bunun için <a href="https://gizlikalsin.com.ibrave.host/yalniz-degilsiniz-ve-bir-cozum-var/" data-type="URL" data-id="https://gizlikalsin.com.ibrave.host/yalniz-degilsiniz-ve-bir-cozum-var/">&#8220;<strong>Yalnız değilsiniz ve bir çözüm var</strong>&#8220;</a> başlıklı yazımızı okuyabilirsiniz. </p>
+
+
+
+<p class="has-text-align-center has-extra-large-font-size"><strong>Önemli Not: Gizlilik Tamamen Anonim Olmak Değildir ve birçoğumuz anonim olmaya değil GİZLİLİĞE ihtiyaç duymaktayız.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="684" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/05/anonymous-2755365_1920-1024x684.jpg" alt="" class="wp-image-214" srcset="https://gizlikalsin.com/wp-content/uploads/2023/05/anonymous-2755365_1920-1024x684.jpg 1024w, https://gizlikalsin.com/wp-content/uploads/2023/05/anonymous-2755365_1920-300x200.jpg 300w, https://gizlikalsin.com/wp-content/uploads/2023/05/anonymous-2755365_1920-768x513.jpg 768w, https://gizlikalsin.com/wp-content/uploads/2023/05/anonymous-2755365_1920-1536x1026.jpg 1536w, https://gizlikalsin.com/wp-content/uploads/2023/05/anonymous-2755365_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Anonimlik ile gizlilik bazen karıştırılıyor. Örneğin üç aşağı beş yukarı evlerimizde aynı şeyleri yapıyoruz, ama hepimiz kapılarımızı kapatıyor, perdelerimizi çekiyoruz. İçeride neler yaptığımız bilinmese de, o ev ve adresin bize ait olduğu biliniyor. </p>
+
+
+
+<p>Dolayısıyla burada bahsettiğimiz konu özel hayatın gizliliğinin dijital versiyonu. Her ne kadar yazdıklarımız size bir başlangıç noktası sağlasa da yüzde 100 anonim olmak ciddi bir uğraş ve efor gerektirmektedir. Tam anlamıyla anonim olmaya ihtiyaç duyduğunuza eminseniz, ciddi bir araştırma yapmalı ve yüksek bir efor harcamalısınız.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

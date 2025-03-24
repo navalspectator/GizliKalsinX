@@ -1,0 +1,73 @@
+site_name: "Gizli Kalsın"
+
+nav:
+  - Anasayfa: index.md
+  - Temel Kavramlar: temel-kavramlar/index.md
+  - Tavsiyeler:
+      - Internet Tarayicilari: internet-tarayicilari/index.md
+      - Arama Motorları: arama-motorlari/index.md
+      - Mesajlaşma Uygulamaları: mesajlasma-uygulamalari/index.md
+      - E-Posta Servisleri: e-posta-servisleri/index.md
+      - VPN'ler: vpnler-hakkinda-bilmeniz-gerekenler/index.md
+      - Güvenli Not Alma: guvenli-not-alma-uygulamalari/index.md
+      - Parola Yoneticileri: parola-yoneticileri/index.md
+      - 2FA Uygulamaları: iki-adimli-dogrulama-uygulamalari-cihazlari/index.md
+      - YouTube Alternatifleri: ucretsiz-youtube-alternatifleri/index.md
+      - Ekstra Kaynaklar: ekstra-kaynaklar/index.md
+  - Blog:
+      - Gizlilik Önemi: kisisel-gizliligin-onemi-hakkinda/index.md
+      - Gizlilik ve Güvenlik: gizlilik-ve-guvenlik-neden-onemlidir/index.md
+      - Yalnız Değilsiniz: yalniz-degilsiniz-bir-cozum-var/index.md
+  - Hakkımızda: hakkimizda/index.md
+
+
+theme:
+  name: material
+  logo: assets/svg.png
+#  logo: none.jpg
+
+  features:
+    - content.tooltips
+    - navigation.tabs
+#    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+#    - header.autohide
+    - navigation.sections
+    - navigation.instant.progress
+    - navigation.instant
+    - toc.follow
+
+
+  palette:
+    - scheme: slate
+      primary: deep purple  # Dark gray for background in dark mode
+      accent: deep purple   # Indigo for highlights
+      toggle:
+        icon: material/weather-night
+        name: Enable Dark Mode
+    - scheme: default
+      primary: deep purple # Light gray/purple for background in light mode
+      accent: deep purple   # Indigo for highlights
+      toggle:
+        icon: material/weather-sunny
+        name: Enable Light Mode
+        
+extra_css:
+    - stylesheets/main.css
+    - stylesheets/left-sidebar.css
+
+plugins:
+  - search
+  - mike
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta

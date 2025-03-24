@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>açık kaynak &#8211; Gizli Kalsın</title>
+	<atom:link href="https://gizlikalsin.com/tag/acik-kaynak/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gizlikalsin.com/</link>
+	<description>Dijital Gizlilik ve Güvenlik Rehberiniz</description>
+	<lastBuildDate>Sat, 23 Sep 2023 20:54:42 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://gizlikalsin.com/wp-content/uploads/2023/04/cropped-logo-500500px-32x32.png</url>
+	<title>açık kaynak &#8211; Gizli Kalsın</title>
+	<link>https://gizlikalsin.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Yalnız Değilsiniz, Bir Çözüm Var!</title>
+		<link>https://gizlikalsin.com/yalniz-degilsiniz-bir-cozum-var/</link>
+					<comments>https://gizlikalsin.com/yalniz-degilsiniz-bir-cozum-var/#comments</comments>
+		
+		<dc:creator><![CDATA[gizlikalsin]]></dc:creator>
+		<pubDate>Wed, 10 May 2023 13:04:50 +0000</pubDate>
+				<category><![CDATA[Gizlilik]]></category>
+		<category><![CDATA[açık kaynak]]></category>
+		<category><![CDATA[gizlilik]]></category>
+		<guid isPermaLink="false">https://gizlikalsin.com.ibrave.host/?p=215</guid>
+
+					<description><![CDATA[Bir önceki yazımızda gizliliğin öneminden bahsetmiştik. Bu yazıda çözüme dair konuşacağız. Öncelikle şunu bilmemiz gerekiyor, dünya çapında bu gizliliği ihlal eden şirket ve uygulamalara karşı halk tarafından ciddi bir tepki var. Hukukçular, yazılımcılar, yapay zeka mühendisleri, aktivistler ve daha birçok kuruluş durmadan savaş veriyorlar. Son yıllarda büyük şirketlere yaptıkları bu ihlallerden dolayı ciddi cezalar kesiliyor. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Bir önceki yazımızda gizliliğin öneminden bahsetmiştik. Bu yazıda çözüme dair konuşacağız. </p>
+
+
+
+<p>Öncelikle şunu bilmemiz gerekiyor, dünya çapında bu gizliliği ihlal eden şirket ve uygulamalara karşı halk tarafından ciddi bir tepki var. Hukukçular, yazılımcılar, yapay zeka mühendisleri, aktivistler ve daha birçok kuruluş durmadan savaş veriyorlar. Son yıllarda büyük şirketlere yaptıkları bu ihlallerden dolayı ciddi cezalar kesiliyor. Yani yalnız değiliz. </p>
+
+
+
+<p>İkincisi ve bize bakan boyutu artık, büyük şirketlerin sundukları uygulamaların birçoğuna muhtaç değiliz. Halihazırda gizliliğe saygı duyan yüzlerce alternatif uygulama var. Dahası gizliliğinize saygı duyarak da şirket kurulup, para kazanabileceğine inanan birçok uygulama geliştiricisi ve servis sağlayıcısı var.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" src="https://gizlikalsin.com.ibrave.host/wp-content/uploads/2023/05/new-1024x843.jpg" alt="" class="wp-image-222" style="object-fit:cover;width:796px;height:448px" width="796" height="448"/></figure>
+
+
+
+<p class="has-text-align-center"><strong>Açık Kaynaklı Uygulamalar</strong></p>
+
+
+
+<p>Daha da ötesi internetin ilk yıllarında ortaya çıkan açık kaynak felsefesine sahip hatırı sayılır miktarda  kurum, kuruluş, yazılımcı, ve hatta şirketler var ve sayıları gittikçe artıyor. Düşünebiliyor musunuz, yazdıkları yazılımın kaynak kodunu açıkça paylaşıyorlar, yani dünya üzerindeki isteyen herhangi bir birey bunu inceleyebiliyor, üzerine bir de itibarlı bazı denetim şirketlerine kendilerini denetlettiriyorlar. </p>
+
+
+
+<p>Yani tamamen şeffafiyet üzerine kurulmuş bir ekosistem var. Birçoğu gelişmekte olduğu için her gizliliğe saygılı olan uygulama Google ve Microsoft gibi şirketlerin önerdikleri servisler kadar özelliğe sahip olmayabiliyor, ama bu tamamen uygulamanın kategorisi, ihtiyacınız olan özelliklerle alakalı.</p>
+
+
+
+<p>İşte bu yüzden biz gizli kalsın ekibi olarak bu siteyi kurmaya karar verdik. En çok ihtiyaç duyulan olan kategorilerde bazı kriterler belirledik ve bu kriterlere uyan uygulamaları tavsiye ediyoruz. Ancak herkesin kendi ihtiyaçlarına göre karar vermesi gerekiyor. Önemli olan kullandığınız uygulama ve servislerin oluşturduğu riskleri ve alternatiflerini bilip bilinçli bir karar verebilmek. Aslında çok temel adımlar atarak güvenlik ve gizliliğinizi büyük oranda geri alabilirsiniz. </p>
+
+
+
+<p>Mesajlaşma uygulamaları, tarayıcılar, arama motorları, email sağlayacınız gibi kritik servisleri değiştirmek tam farkedemesek de gizliliğimiz adına çok önemli adımlar içeriyor. Çünkü en çok veri bu uygulamalardan toplanıyor. Bunlar bizim adeta internete açıldığımız kapılar mahiyetinde. Daha fazlası için önerilen uygulamalar ve temel kavramlar bölümünü inceleyebilirsiniz.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gizlikalsin.com/yalniz-degilsiniz-bir-cozum-var/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,86 @@
+/* ---------- Right Sidebar (Table of Contents) Styling ---------- */
+
+/* Title Styling */
+.md-nav--secondary .md-nav__title {
+  font-size: 0.85rem;
+  color: #aaaaaa !important;
+  margin-top: 1rem;
+  padding-left: 0.75rem;
+  background-color: transparent !important;
+}
+
+/* Link Styling */
+.md-nav--secondary .md-nav__item .md-nav__link {
+  color: #bbbbcc !important;
+  font-weight: 500;
+  padding-left: 1rem;
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+}
+
+/* Adjust spacing between lines in right sidebar */
+.md-nav--secondary .md-nav__item {
+  margin-bottom: 0.1rem; /* Adjust the value as needed */
+}
+
+/* Hover and Active Link Effects */
+.md-nav--secondary .md-nav__item .md-nav__link:hover,
+.md-nav--secondary .md-nav__item .md-nav__link--active {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+/* Ensure icons remain visible when link is active */
+.md-nav--secondary .md-nav__link[href*="internet-tarayicilari"]::before { content: "🌐"; }
+.md-nav--secondary .md-nav__link[href*="arama-motorlari"]::before { content: "🔍"; }
+.md-nav--secondary .md-nav__link[href*="mesajlasma-uygulamalari"]::before { content: "💬"; }
+.md-nav--secondary .md-nav__link[href*="e-posta-servisleri"]::before { content: "✉️"; }
+.md-nav--secondary .md-nav__link[href*="vpnler-hakkinda-bilmeniz-gerekenler"]::before { content: "🛡️"; }
+.md-nav--secondary .md-nav__link[href*="guvenli-not-alma-uygulamalari"]::before { content: "📝"; }
+.md-nav--secondary .md-nav__link[href*="parola-yoneticileri"]::before { content: "🔐"; }
+.md-nav--secondary .md-nav__link[href*="iki-adimli-dogrulama-uygulamalari-cihazlari"]::before { content: "✅"; }
+.md-nav--secondary .md-nav__link[href*="ucretsiz-youtube-alternatifleri"]::before { content: "🎬"; }
+.md-nav--secondary .md-nav__link[href*="ekstra-kaynaklar"]::before { content: "📚"; }
+
+/* Ensure icons remain visible when link is not active */
+.md-nav--secondary .md-nav__link[href*="internet-tarayicilari"]::before { content: "🌐"; }
+.md-nav--secondary .md-nav__link[href*="arama-motorlari"]::before { content: "🔍"; }
+.md-nav--secondary .md-nav__link[href*="mesajlasma-uygulamalari"]::before { content: "💬"; }
+.md-nav--secondary .md-nav__link[href*="e-posta-servisleri"]::before { content: "✉️"; }
+.md-nav--secondary .md-nav__link[href*="vpnler-hakkinda-bilmeniz-gerekenler"]::before { content: "🛡️"; }
+.md-nav--secondary .md-nav__link[href*="guvenli-not-alma-uygulamalari"]::before { content: "📝"; }
+.md-nav--secondary .md-nav__link[href*="parola-yoneticileri"]::before { content: "🔐"; }
+.md-nav--secondary .md-nav__link[href*="iki-adimli-dogrulama-uygulamalari-cihazlari"]::before { content: "✅"; }
+.md-nav--secondary .md-nav__link[href*="ucretsiz-youtube-alternatifleri"]::before { content: "🎬"; }
+.md-nav--secondary .md-nav__link[href*="ekstra-kaynaklar"]::before { content: "📚"; }
+
+/* Additional Styling for Dark Theme */
+:root[data-md-color-scheme="slate"] .md-nav--secondary .md-nav__title {
+  background-color: transparent !important;
+}
+
+:root[data-md-color-scheme="slate"] .md-nav--secondary .md-nav__item .md-nav__link {
+  color: #bbbbcc !important;
+}
+
+:root[data-md-color-scheme="slate"] .md-nav--secondary .md-nav__item .md-nav__link:hover,
+:root[data-md-color-scheme="slate"] .md-nav--secondary .md-nav__item .md-nav__link--active {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+/* Additional Styling for Light Theme */
+:root[data-md-color-scheme="default"] .md-nav--secondary .md-nav__title {
+  background-color: transparent !important;
+}
+
+:root[data-md-color-scheme="default"] .md-nav--secondary .md-nav__item .md-nav__link {
+  color: #333333 !important;
+}
+
+:root[data-md-color-scheme="default"] .md-nav--secondary .md-nav__item .md-nav__link:hover,
+:root[data-md-color-scheme="default"] .md-nav--secondary .md-nav__item .md-nav__link--active {
+  color: #000000 !important;
+  background-color: rgba(0, 0, 0, 0.08);
+}

@@ -1,0 +1,80 @@
+/* ---------- General Styles ---------- */
+
+/* Typography */
+body {
+    font-family: 'Arial, sans-serif';
+    line-height: 1.6;
+    color: var(--md-typeset-fg-color);
+    background-color: var(--md-default-bg-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--md-typeset-a-color);
+}
+
+/* Links */
+a {
+    color: var(--md-typeset-a-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ---------- Theme Color Tweaks ---------- */
+:root[data-md-color-scheme="slate"] {
+    --md-default-bg-color: #121212;
+    --md-default-fg-color: #eeeeee;
+    --md-typeset-a-color: #bb86fc;
+    --md-accent-fg-color: #bb86fc;
+}
+
+:root[data-md-color-scheme="default"] {
+    --md-default-bg-color: #ffffff;
+    --md-default-fg-color: #000000;
+    --md-typeset-a-color: #1a73e8;
+    --md-accent-fg-color: #1a73e8;
+}
+
+/* ---------- Header and Footer Styling ---------- */
+.md-header, .md-footer {
+    background-color: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+}
+
+/* ---------- Main Content Styling ---------- */
+.md-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ---------- Code Block Styling ---------- */
+pre code {
+    background-color: #2e2e2e;
+    color: #f8f8f2;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+/* ---------- Hide Top Nav Items on Scroll (Keep Logo + Site Name) ---------- */
+.md-header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.md-header__title {
+    flex-grow: 1;
+}
+
+/* Hide top-level nav links on scroll but keep logo + site name */
+.md-header__nav {
+    transition: opacity 0.3s ease;
+}
+
+.md-header--scroll .md-header__nav {
+    opacity: 0;
+    pointer-events: none;
+}
