@@ -1,0 +1,314 @@
+/* docs/stylesheets/extra.css */
+[data-md-color-scheme="gizlikalsin"] {
+  --md-primary-fg-color: #4B0082;
+  --md-primary-fg-color--light: #C8BFE7;
+  --md-primary-fg-color--dark: #300051;
+
+  --md-accent-fg-color: #4B0082;
+  --md-accent-fg-color--light: #C8BFE7;
+  --md-accent-fg-color--dark: #300051;
+}
+
+/* ---------- Logo Size ---------- */
+.md-header__button.md-logo img {
+  height: 50px!important;
+}
+
+/* ---------- Sidebar Section Title Styling ---------- */
+.md-nav__title {
+  background-color: transparent!important;
+  border: none!important;
+  box-shadow: none!important;
+}
+
+/* ---------- Sidebar Link Styling ---------- */
+:root[data-md-color-scheme="slate"].md-nav__item.md-nav__link {
+  color: #cfcfe3!important;
+  font-weight: 500;
+  padding: 0.8rem 0.75rem 0.8rem 2rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+  line-height: 1.4;
+}
+
+:root[data-md-color-scheme="default"].md-nav__item.md-nav__link {
+  color: #333333!important;
+  font-weight: 500;
+  padding: 0.4rem 0.75rem 0.4rem 2rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+  line-height: 1.4;
+}
+
+/* Hover effect */
+:root[data-md-color-scheme="slate"].md-nav__item.md-nav__link:hover {
+  color: #ffffff!important;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+:root[data-md-color-scheme="default"].md-nav__item.md-nav__link:hover {
+  color: #000000!important;
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+/* Active link effect */
+:root[data-md-color-scheme="slate"].md-nav__item.md-nav__link--active {
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #ffffff!important;
+}
+
+:root[data-md-color-scheme="default"].md-nav__item.md-nav__link--active {
+  background-color: rgba(0, 0, 0, 0.08);
+  color: #000000!important;
+}
+
+/* Ensure icons remain visible when link is active */
+:root[data-md-color-scheme="slate"].md-nav__item.md-nav__link--active::before,
+:root[data-md-color-scheme="default"].md-nav__item.md-nav__link--active::before {
+  content: attr(data-icon);
+  position: absolute;
+  left: 1rem;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+/* ---------- Fix first-item top margin glitch ---------- */
+.md-nav__list > li:first-child >.md-nav__link {
+  margin-top: 1.5rem;
+}
+
+/* ---------- Remove active background box from top-level links (like Tavsiyeler) ---------- */
+.md-nav__item.md-nav__link--active[href="#"],
+.md-nav__item.md-nav__link--active[href="tavsiyeler/index.md"] {
+  background: none!important;
+  color: #aaaaaa!important;
+  cursor: default;
+  pointer-events: none;
+}
+
+/* ---------- Add Icons to Sidebar Links ---------- */
+.md-nav__link[href*="internet-tarayicilari"]::before { content: "🌐"; }
+.md-nav__link[href*="arama-motorlari"]::before { content: "🔍"; }
+.md-nav__link[href*="mesajlasma-uygulamalari"]::before { content: "💬"; }
+.md-nav__link[href*="e-posta-servisleri"]::before { content: "✉️"; }
+.md-nav__link[href*="vpnler-hakkinda-bilmeniz-gerekenler"]::before { content: "🛡️"; }
+.md-nav__link[href*="guvenli-not-alma-uygulamalari"]::before { content: "📝"; }
+.md-nav__link[href*="parola-yoneticileri"]::before { content: "🔐"; }
+.md-nav__link[href*="iki-adimli-dogrulama-uygulamalari-cihazlari"]::before { content: "✅"; }
+.md-nav__link[href*="ucretsiz-youtube-alternatifleri"]::before { content: "🎬"; }
+.md-nav__link[href*="ekstra-kaynaklar"]::before { content: "📚"; }
+
+/* ---------- Icon Styling ---------- */
+.md-nav__link::before {
+  position: absolute;
+  left: 1rem;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+/* Prevent icons overlapping text */
+.md-nav__link span {
+  margin-left: 1.2rem;
+}
+
+/* ---------- Dark Theme Color Tweaks ---------- */
+:root[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #121212;
+  --md-default-fg-color: #eeeeee;
+  --md-typeset-a-color: #bb86fc;
+  --md-accent-fg-color: #bb86fc;
+}
+
+:root[data-md-color-scheme="slate"].md-sidebar {
+  background-color: #1c1c1e;
+}
+
+:root[data-md-color-scheme="slate"].md-typeset {
+  color: #e0e0e0;
+}
+
+/* ---------- Right Sidebar (Table of Contents) ---------- */
+:root[data-md-color-scheme="slate"].md-nav--secondary.md-nav__title {
+  background-color: transparent!important;
+}
+
+:root[data-md-color-scheme="slate"].md-nav--secondary.md-nav__item.md-nav__link {
+  color: #bbbbcc!important;
+  font-weight: 500;
+  padding-left: 1rem;
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+}
+
+:root[data-md-color-scheme="slate"].md-nav--secondary.md-nav__item.md-nav__link:hover,
+:root[data-md-color-scheme="slate"].md-nav--secondary.md-nav__item.md-nav__link--active {
+  color: #ffffff!important;
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+:root[data-md-color-scheme="slate"].md-nav--secondary.md-nav__item.md-nav__link--active::before {
+  content: attr(data-icon);
+  position: absolute;
+  left: 1rem;
+  font-size: 1rem;
+  line-height: 0.11;
+}
+
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__item.md-nav__link--active::before {
+  content: attr(data-icon);
+  position: absolute;
+  left: 1rem;
+  font-size: 1rem;
+  line-height: 0.1;
+}
+
+/* ---------- Fix: Remove Dark Background from Top-Level Active Items ---------- */
+:root[data-md-color-scheme="slate"].md-nav__item--active >.md-nav__link[href="#"],
+:root[data-md-color-scheme="slate"].md-nav__item--active >.md-nav__link[href="index.md"] {
+  background: none!important;
+  box-shadow: none!important;
+  color: #ffffff!important;
+  pointer-events: none;
+}
+
+/* Ensure background color is set for all elements */
+:root[data-md-color-scheme="slate"] body,
+:root[data-md-color-scheme="slate"].md-content,
+:root[data-md-color-scheme="slate"].md-main,
+:root[data-md-color-scheme="slate"].md-main__inner,
+:root[data-md-color-scheme="slate"].md-typeset,
+:root[data-md-color-scheme="slate"].md-typeset__inner,
+:root[data-md-color-scheme="slate"].md-nav,
+:root[data-md-color-scheme="slate"].md-nav__inner,
+:root[data-md-color-scheme="slate"].md-sidebar,
+:root[data-md-color-scheme="slate"].md-sidebar__inner {
+  background-color: #121212!important;
+}
+
+:root[data-md-color-scheme="slate"].md-header,
+:root[data-md-color-scheme="slate"].md-header__inner,
+:root[data-md-color-scheme="slate"].md-header__button,
+:root[data-md-color-scheme="slate"].md-header__button.md-logo img {
+  background-color: #1c1c1e!important;
+}
+
+:root[data-md-color-scheme="slate"].md-nav__link,
+:root[data-md-color-scheme="slate"].md-nav__item,
+:root[data-md-color-scheme="slate"].md-nav__title,
+:root[data-md-color-scheme="slate"].md-nav__list {
+  background-color: transparent!important;
+}
+
+:root[data-md-color-scheme="slate"].md-footer,
+:root[data-md-color-scheme="slate"].md-footer__inner {
+  background-color: #1c1c1e!important;
+}
+
+:root[data-md-color-scheme="slate"].md-nav--secondary,
+:root[data-md-color-scheme="slate"].md-nav--secondary.md-nav__title,
+:root[data-md-color-scheme="slate"].md-nav--secondary.md-nav__item,
+:root[data-md-color-scheme="slate"].md-nav--secondary.md-nav__link {
+  background-color: transparent!important;
+}
+
+/* ---------- Light Theme Color Tweaks ---------- */
+:root[data-md-color-scheme="default"] {
+  --md-default-bg-color: #ffffff;
+  --md-default-fg-color: #000000;
+  --md-typeset-a-color: #1a73e8;
+  --md-accent-fg-color: #1a73e8;
+}
+
+:root[data-md-color-scheme="default"].md-sidebar {
+  background-color: #f5f5f5;
+}
+
+:root[data-md-color-scheme="default"].md-typeset {
+  color: #333333;
+}
+
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__title {
+  background-color: transparent!important;
+}
+
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__item.md-nav__link {
+  color: #333333!important;
+  font-weight: 500;
+  padding-left: 1rem;
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+}
+
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__item.md-nav__link:hover,
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__item.md-nav__link--active {
+  color: #000000!important;
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__item.md-nav__link--active::before {
+  content: attr(data-icon);
+  position: absolute;
+  left: 1rem;
+  font-size: 1rem;
+  line-height: 0.11;
+}
+
+/* ---------- Fix: Remove Dark Background from Top-Level Active Items ---------- */
+:root[data-md-color-scheme="default"].md-nav__item--active >.md-nav__link[href="#"],
+:root[data-md-color-scheme="default"].md-nav__item--active >.md-nav__link[href="index.md"] {
+  background: none!important;
+  box-shadow: none!important;
+  color: #000000!important;
+  pointer-events: none;
+}
+
+/* Ensure background color is set for all elements */
+:root[data-md-color-scheme="default"] body,
+:root[data-md-color-scheme="default"].md-content,
+:root[data-md-color-scheme="default"].md-main,
+:root[data-md-color-scheme="default"].md-main__inner,
+:root[data-md-color-scheme="default"].md-typeset,
+:root[data-md-color-scheme="default"].md-typeset__inner,
+:root[data-md-color-scheme="default"].md-nav,
+:root[data-md-color-scheme="default"].md-nav__inner,
+:root[data-md-color-scheme="default"].md-sidebar,
+:root[data-md-color-scheme="default"].md-sidebar__inner {
+  background-color: #ffffff!important;
+}
+
+:root[data-md-color-scheme="default"].md-header,
+:root[data-md-color-scheme="default"].md-header__inner,
+:root[data-md-color-scheme="default"].md-header__button,
+:root[data-md-color-scheme="default"].md-header__button.md-logo img {
+  background-color: #f5f5f5!important;
+}
+
+:root[data-md-color-scheme="default"].md-nav__link,
+:root[data-md-color-scheme="default"].md-nav__item,
+:root[data-md-color-scheme="default"].md-nav__title,
+:root[data-md-color-scheme="default"].md-nav__list {
+  background-color: transparent!important;
+}
+
+:root[data-md-color-scheme="default"].md-footer,
+:root[data-md-color-scheme="default"].md-footer__inner {
+  background-color: #f5f5f5!important;
+}
+
+:root[data-md-color-scheme="default"].md-nav--secondary,
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__title,
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__item,
+:root[data-md-color-scheme="default"].md-nav--secondary.md-nav__link {
+  background-color: transparent!important;
+}
+
+/* ---------- Increase spacing between each line in left sidebar ---------- */
+.md-nav__list > li {
+  margin-bottom: 1rem; /* Adjust the value as needed */
+}
