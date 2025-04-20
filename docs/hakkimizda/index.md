@@ -6,7 +6,7 @@
 
 Ayrıca, düşünce ve ifade özgürliğü ile kişisel verilerimizin korunması açısından da gizlilik ve güvenliğin yediden yetmişe herkes için hayati bir ihtiyaç olduğunu düşünüyoruz. Bu konuda yabancı dillerde hazırlanmış birçok kaynak olmasına rağmenö ne yazık ki bu büyük ihtiyaca karşılık verecek, **tarafsız, ve belirli kriterler ve prensipler** doğrultusunda toplumumuzu bilgilendirecek ve tavsiyelerde bulunacak kaynak sayısı yok denecek kadar az. Bu nedenle Gizli Kalsın websitesini kurmaya karar verdik. 
 
-Aslında bu konuda hazırlanmış, örneğin Privacy Guides veya Techlore gibi sitelerin birebir çevirisini yapmayı tercih etmedik. Çünkü bu siteler yüksek kriterlere sahip olduğundan daha çok zaten teknolojiyle ciddi iç içe olan insanlara hitap etmekte ve ortalama vatandaşın ihtiyacına tam cevap verememekte. Ayrıca her kategoride mutlaka tüm kısıtlamalarına rağmen ücretsiz versiyonları bulunan yazılımların bulunmasına dikkat ettik.
+Aslında bu konuda hazırlanmış gayet kapsamlı Privacy Guides veya Techlore gibi yabancı siteler var. İlk başta sitelerin birebir çevirisini yapmayı düşünsek de, bu siteler özellikle belirli kategorilerde gerçekten yüksek kriterlere sahip ve ortalama vatandaşın ihtiyacına tam cevap verememekteler. 
 
 ## Yöntem
 
@@ -16,12 +16,12 @@ Sitemizde kesinlikle reklam yoktur, herhangi bir yerden bağış veya para almam
 
 ## Kullandığımız Teknolojiler
 
-Sitemiz genellikle dökümantasyon amacıyla developerlar tarafından sıkça kullanılan açık mkdocs kütüphanesini ve mkdocs material template ini kullanmaktadır. Site içeriğinin barındırılması (hosting) amaciyla Cloudflare pages servisi kullanilmaktadir. 
+Sitemiz genellikle dökümantasyon amacıyla developerlar tarafından sıkça kullanılan açık mkdocs kütüphanesini ve mkdocs material template ini kullanmaktadır. 
 
-Sitemizde analitik olarak açık kaynak kodlu ve mahremiyet odaklı bir servis olan https://matomo.org/ kullanılmaktadır. İçerik dağıtımı (Content Delivery Network), barındırma ve güvenlik için CloudFlare altyapısını kullanmaktayız. Email saygın bir sağlayıcı olan Protonmail altyapısını kullanıyoruz. Bize protonmail üzerinden göndereceğiniz emailler uçtan uca şifrelenmektedir.
+Sitenin analitik ve içerik dağıtımı (Content Delivery Network), barındırma ve güvenlik gibi ihtiyaçları için CloudFlare altyapısını kullanmaktayız. Email servisi olarak saygın bir sağlayıcı olan Protonmail altyapısını kullanıyoruz. Bize protonmail üzerinden göndereceğiniz emailler uçtan uca şifrelenmektedir.
 
 ## İletişim
 
 - Email: gizlikalsin@proton.me
-- Twitter: https://twitter.com/GizliKalsin_net
+- Twitter: https://twitter.com/GizliKalsincom
 - Mastodon: https://mastodon.social/@gizlikalsin_net
