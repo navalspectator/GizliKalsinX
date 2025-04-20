@@ -58,6 +58,16 @@ theme:
         name: Enable Light Mode
 extra:
   images_dir: assets/images
+  social:
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@gizlikalsin
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/GizliKalsincom
+    - icon: fontawesome/brands/github
+      link: https://github.com/navalspectator/GizliKalsinX
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@gizlikalsin_net
+
 
 extra_css:
     - stylesheets/main.css

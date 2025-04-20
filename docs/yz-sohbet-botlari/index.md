@@ -78,7 +78,7 @@ Hugging Chat Kullanıcı Arayüzü
 - Hugging Face’in ev sahipliği yaptığı modeller arasında Llama, Deepseek, Qwen, ve Cohere gibi açık kaynak yıldızları var.
 - Firefox AI Chat Fonksiyonu ile entegre bir şekilde tarayıcıda ziyaret edilen sayfa hakkında sorulara cevap vermek veya özetlemek gibi amaçlarla kullanmak da mümkün.
 
-![Firefox Huggingchat entegrasyonu, sağ tuş](../assets/images/Firefox Huggingchat entegrasyonu, sağ tuş.png)
+![Firefox Huggingchat entegrasyonu, sağ tuş](../assets/images/Firefox_Huggingchat_entegrasyon.png)
 /// caption
 Firefox Huggingchat Entegrasyonu
 ///
@@ -199,7 +199,7 @@ Yerel çözümler — örneğin [**GPT4All**](https://www.nomic.ai/gpt4all), [**
 Sonuç olarak, en doğru tercih; kullanım amacınıza, teknik altyapınıza ve gizlilik konusundaki önceliklerinize bağlı olarak değişir ve bunu da en iyi siz bilebilirsiniz.
 
 !!! information "Ek Bilgi"
-    Bu yazıda sitemizin genel üslup ve tonuna göre bir farklılık sezdiyseniz, haklısınız. Çünkü bu sefer bir değişiklik yaptık, ve yazı hazırlandıktan sonra bir yapay zeka aracına internet ekipler amirinin üslubuyla tekrar yazdırdık. Sonuçlar gerçekten şaşırtıcı.
+    Bu yazıda sitemizin genel üslup ve tonuna göre bir farklılık sezdiyseniz, haklısınız. Çünkü bu sefer bir değişiklik yaptık, ve yazı hazırlandıktan sonra bir yapay zeka aracına [internet ekipler amirinin](https://listelist.com/serdar-kuzuloglu-kimdir/) üslubuyla tekrar yazdırdık. Sonuçlar gerçekten şaşırtıcı. :upside_down:
 
 !!! tip ""
     <div style="text-align: center; font-size: 1.5em; font-weight: bold;">
