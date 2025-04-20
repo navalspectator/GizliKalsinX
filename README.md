@@ -1,6 +1,8 @@
 # Gizlikalsin.com
 
-![Gizli Kalsın Siyah Logo](../assets/images/3.png)
+<div style="text-align: center;">
+  <img src=".https://github.com/navalspectator/GizliKalsinX/blob/main/docs/assets/images/3.png" alt="Cover image" style="width:40%; height:auto;">
+</div>
     
 
 
