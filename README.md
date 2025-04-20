@@ -1,7 +1,8 @@
 # Gizlikalsin.com
 
+
 <div style="text-align: center;">
-  <img src="https://github.com/navalspectator/GizliKalsinX/blob/main/docs/assets/images/3.png" alt="GizliKalsin Koyu Logo" style="width:40%; height:auto;">
+  <img src="https://github.com/navalspectator/GizliKalsinX/blob/main/docs/assets/images/GizliKalsin_Koyu_Logo.png" alt="GizliKalsin Koyu Logo" style="width:40%; height:auto;">
 </div>
     
 
