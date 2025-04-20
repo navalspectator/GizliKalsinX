@@ -3,7 +3,7 @@ title: "ChatGPT'den Kaçış Planı: Veriniz Sadece Sizin Kalsın Diyen Sohbet B
 icon: material/creation
 ---
 
-# "ChatGPT'den Kaçış Planı: Veriniz Sadece Sizin Kalsın Diyen Sohbet Botları”
+# ChatGPT'den Kaçış Planı: Veriniz Sadece Sizin Kalsın Diyen Sohbet Botları
 
 Bugün internette "ücretsiz" dediğimiz her şeyin asıl bedelini bizden nasıl aldığını artık sağır sultan bile biliyor. Özellikle yapay zekâ sohbet botları yani şu akıllı robotlarla konuştuğumuz uygulamalar?
 
@@ -37,6 +37,9 @@ Her servis verilerinize aynı saygıyı göstermiyor.
 #### [**1. Brave Leo**](https://brave.com/leo/)
 
 ![Brave Leo Özet](../assets/images/Brave_Leo_ozet.png)
+/// caption
+Brave Leo Kullanıcı Arayüzü
+///
 
 - Brave tarayıcısı ile birlikte gelen bu yapay zekâ asistanı, gizliliği merkeze alıyor.
 - Sohbet ederken IP adresini maskeleyen özel bir sunucu kullanıyor. Yani sizi siz gibi göstermiyor.
@@ -47,6 +50,9 @@ Her servis verilerinize aynı saygıyı göstermiyor.
 #### [**2. DuckDuckGo AI Chat**](https://duckduckgo.com/duckduckgo-help-pages/duckai)
 
 ![Duckduckgo AI Sohbet](../assets/images/Duckduckgo AI Sohbet.png)
+/// caption
+Duckduckgo AI Sohbet Kullanıcı Arayüzü
+///
 
 - DuckDuckGo Arama motoru olarak zaten yıllardır "izlenmeden arama yapmanın yolu" diye kendini tanıtıyor.
 - AI Chat servisinde de aynı felsefe ile devam ediyor: IP adresini kendisiyle değiştiriyor, sohbet bilgilerini kaydetmiyor.
@@ -58,13 +64,18 @@ Her servis verilerinize aynı saygıyı göstermiyor.
 #### [**3. Hugging Face Chat**](https://huggingface.co/chat/)
     
 ![Hugging Chat Arayüzü](../assets/images/Hugging Chat.png)
-
+/// caption
+Hugging Chat Kullanıcı Arayüzü
+///
 
 - Gizlilik Politikası gayet kısa ve net: **"Privacy by Design"**. Yani tasarım aşamasında gizlilik şart koşularak geliştirilmiş. Dolayısıyla, sohbetlerin dışarı sızması, başka amaçla kullanılması yok.
 - Hugging Face’in ev sahipliği yaptığı modeller arasında Llama, Deepseek, Qwen, ve Cohere gibi açık kaynak yıldızları var.
 - Firefox AI Chat Fonksiyonu ile entegre bir şekilde tarayıcıda ziyaret edilen sayfa hakkında sorulara cevap vermek veya özetlemek gibi amaçlarla kullanmak da mümkün.
 
 ![Firefox Huggingchat entegrasyonu, sağ tuş](../assets/images/Firefox Huggingchat entegrasyonu, sağ tuş.png)
+/// caption
+Firefox Huggingchat Entegrasyonu
+///
 
 - Ekstra özellikler de bol: Web sayfasını özetle, kod yaz, belge oku, hatta kendi özel asistanını oluştur.
 - Kullanmak için bir hesap gereklidir, aksi takdirde kullanım hakkınız ciddi bir şekilde sınırlıdır.
@@ -90,7 +101,9 @@ Ben kurmakla uğraşırım, yeter ki internetsiz ortamda bile şakır şakır ç
 YZ Sohbet Botları temelde iki bileşenden oluşmaktadır: Dil Modelleri ve bu modellerini çalıştıran uygulamalar. Tavsiye ettiğimiz uygulamalar bilgisayarınızın RAM kapasitesine göre sizlere otomatik olarak uygun dil modellerini örnermekte ve otomatik olarak indirmenize yardımcı olmaktadır.
 
 ![GPT4ALL Model Arayüzü](../assets/images/GPT4ALL_modeller.png)
-
+/// caption
+GPT4ALL Model Arayüzü
+///
 
 ??? tip "Ek Bilgi"
     - Meraklıları için Huggingface üzerinden çok daha fazla model bulma, inceleme ve indirebilme seçeneği de mevcut elbette. Dil Modelleri ilgili detaylı karşılaştırmalar için [LM Arena](https://lmarena.ai) ve [OpenLLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) gibi kaynakları inceleyebilirsiniz.
@@ -104,7 +117,9 @@ YZ Sohbet Botları temelde iki bileşenden oluşmaktadır: Dil Modelleri ve bu m
 
 
 ![GPT4ALL Arayüzü](../assets/images/GPT4ALL.png)
-
+/// caption
+GPT4ALL Kullanıcı Arayüzü
+///
 
 - Nomic AI firması tarafından geliştirilen GPT4ALL en popüler yerel chatbot uygulamalarından birisidir.
 - Deepseek R1, LLaMa, Mistral ve Nous-Hermes gibi modelleri destekler.
@@ -127,6 +142,10 @@ YZ Sohbet Botları temelde iki bileşenden oluşmaktadır: Dil Modelleri ve bu m
     
 #### [**5. Ollama**](https://ollama.com)
     
+![Ollama Terminal](../assets/images/Ollama Terminal.png)
+/// caption
+Ollama Terminal Görüntüsü
+///
 - LLM'leri yerel olarak çalıştırmak için basitleştirilmiş bir komut satırı aracıdır.
 - Çoklu model desteği ve multimodal yetenekleri ile metin, görüntü ve diğer veri türleriyle çalışabilir.
 - Hızlı başlatma süresi ve düşük kaynak kullanımına sahiptir
@@ -167,11 +186,13 @@ Tabii ücretli servislerde de veri toplanabiliyor — orası ayrı mesele. Ama �
 
 Gizliliğe önem veren büyük dil modeli (LLM) çözümleri her geçen gün gelişiyor ve çeşitleniyor. Hem yerel hem de bulut tabanlı seçenekler, kullanıcı ihtiyaçlarına göre daha esnek ve güvenli hale geliyor.
 
-Yerel çözümler — örneğin [**GPT4All**](https://www.nomic.ai/gpt4all), [**Llamafile**](https://llamafile.ai/), [Jan.ai](http://Jan.ai), [**AnythingLLM**](https://anythingllm.com), veya #### [**Ollama**](https://ollama.com) verilerinizin tamamen cihazınızda işlenmesini sağlayarak maksimum gizlilik sunar.
+Yerel çözümler — örneğin [**GPT4All**](https://www.nomic.ai/gpt4all), [**Llamafile**](https://llamafile.ai/), [Jan.ai](http://Jan.ai), [**AnythingLLM**](https://anythingllm.com), veya [**Ollama**](https://ollama.com) verilerinizin tamamen cihazınızda işlenmesini sağlayarak maksimum gizlilik sunar.
 
 [**Brave Leo**](https://brave.com/leo/) ve [**DuckDuckGo AI Chat**](https://duck.ai), ve [**Hugging Face Chat**](https://huggingface.co/chat/) gibi bulut tabanlı seçenekler mahremiyet ile güçlü modellerden hızlı şekilde faydalanmak isteyen kullanıcılar için bir alternatif çözümler sunar.
 
 Sonuç olarak, en doğru tercih; kullanım amacınıza, teknik altyapınıza ve gizlilik konusundaki önceliklerinize bağlı olarak değişir ve bunu da en iyi siz bilebilirsiniz.
 
-Hangi aracı kullanırsanız kullanın, kontrolün sizde olduğunu unutmayın, istediğinizde verileriniz **Gizli Kalsın**.
-
+!!! tip
+    <div style="text-align: center; font-size: 1.5em; font-weight: bold;">
+        Hangi aracı kullanırsanız kullanın, kontrolün sizde olduğunu unutmayın, istediğinizde verileriniz Gizli Kalsın.
+    </div>
