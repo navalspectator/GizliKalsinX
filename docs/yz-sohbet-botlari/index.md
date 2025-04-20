@@ -3,7 +3,13 @@ title: "ChatGPT'den Kaçış Planı: Veriniz Sadece Sizin Kalsın Diyen Sohbet B
 icon: material/creation
 ---
 
+
 # ChatGPT'den Kaçış Planı: Veriniz Sadece Sizin Kalsın Diyen Sohbet Botları
+<div style="text-align: center;">
+  <img src="../assets/images/Yapay_zeka_botlari.jpg" alt="Cover image" style="width:40%; height:auto;">
+</div>
+
+
 
 Bugün internette "ücretsiz" dediğimiz her şeyin asıl bedelini bizden nasıl aldığını artık sağır sultan bile biliyor. Özellikle yapay zekâ sohbet botları yani şu akıllı robotlarla konuştuğumuz uygulamalar?
 
