@@ -1,7 +1,7 @@
 # Temel Kavramlar
 
 ## Gizlilik
-:smile:
+
 Dijital dünyada gizlilik, kişisel verilerinizin korunması ve izinsiz erişimden, kullanımdan ve dağıtımdan sakınma hakkıdır. Dijital gizlilik, kullanıcıların kimliklerini, verilerini ve çevrimiçi etkinliklerini güvence altına alarak özgürlük ve güvenlik sağlar. Kısaca, verilerinizin sadece sizin izin verdiğiniz taraflar tarafından erişilebilmesi ve kullanılabilmesi olarak tanımlanabilir.
 
 ## Güvenlik

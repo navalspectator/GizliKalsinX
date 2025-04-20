@@ -3,7 +3,9 @@ site_name: "Gizli Kalsın"
 nav:
   - Anasayfa: index.md
   - Temel Kavramlar: temel-kavramlar/index.md
-  - Tavsiyeler:
+  - Tavsiyeler: 
+      - "": tavsiyeler/index.md
+      - Yapay Zeka Sohbet Botları: yz-sohbet-botlari/index.md
       - Internet Tarayicilari: internet-tarayicilari/index.md
       - Arama Motorları: arama-motorlari/index.md
       - Mesajlaşma Uygulamaları: mesajlasma-uygulamalari/index.md
@@ -19,7 +21,6 @@ nav:
       - Gizlilik ve Güvenlik: gizlilik-ve-guvenlik-neden-onemlidir/index.md
       - Yalnız Değilsiniz: yalniz-degilsiniz-bir-cozum-var/index.md
   - Hakkımızda: hakkimizda/index.md
-
 
 theme:
   name: material
@@ -55,7 +56,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Enable Light Mode
-        
+extra:
+  images_dir: assets/images
+
 extra_css:
     - stylesheets/main.css
     - stylesheets/left-sidebar.css
@@ -63,10 +66,12 @@ extra_css:
 plugins:
   - search
   - mike
+  - glightbox
 
 markdown_extensions:
   - admonition
   - attr_list
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
