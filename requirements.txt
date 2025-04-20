@@ -1,5 +1,4 @@
 mkdocs-material==9.5.13
 mike==1.1.2
 pymdown-extensions==10.7
-pymdownx==1.0.0  # Adding pymdownx for blocks.caption extension
 glightbox==1.0.0  # Adding glightbox plugin
