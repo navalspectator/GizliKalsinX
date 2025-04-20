@@ -89,15 +89,23 @@ Ben kurmakla uğraşırım, yeter ki internetsiz ortamda bile şakır şakır ç
 
 YZ Sohbet Botları temelde iki bileşenden oluşmaktadır: Dil Modelleri ve bu modellerini çalıştıran uygulamalar. Tavsiye ettiğimiz uygulamalar bilgisayarınızın RAM kapasitesine göre sizlere otomatik olarak uygun dil modellerini örnermekte ve otomatik olarak indirmenize yardımcı olmaktadır.
 
-Meraklıları için Huggingface üzerinden çok daha fazla model bulma, inceleme ve indirebilme seçeneği de mevcut elbette. Dil Modelleri ilgili detaylı karşılaştırmalar için [LM Arena](https://lmarena.ai) ve [OpenLLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) gibi kaynakları inceleyebilirsiniz.
+![GPT4ALL Model Arayüzü](../assets/images/GPT4ALL_modeller.png)
 
-!!! information "Ek Bilgi"
-    Büyük Dil modellerini ortalama bir bilgisayarda çalıştırabilmek için Nicelleştirilmiş (veya sıkıştırılmış) versiyonları kullanmak gerekmektedir. Genellikle q4 seviyesindeki modeller 8 GB RAM'e sahip bilgisayarlarda iyi sonuçlar verir.
+
+??? tip "Ek Bilgi"
+    - Meraklıları için Huggingface üzerinden çok daha fazla model bulma, inceleme ve indirebilme seçeneği de mevcut elbette. Dil Modelleri ilgili detaylı karşılaştırmalar için [LM Arena](https://lmarena.ai) ve [OpenLLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) gibi kaynakları inceleyebilirsiniz.
+
+
+    - Büyük Dil modellerini ortalama bir bilgisayarda çalıştırabilmek için Nicelleştirilmiş (veya sıkıştırılmış) versiyonları kullanmak gerekmektedir. Genellikle q4 seviyesindeki modeller 8 GB RAM'e sahip bilgisayarlarda iyi sonuçlar verir.
 
 ### Popüler Yerel LLM Araçları:
 
 #### [**1. GPT4All**](https://www.nomic.ai/gpt4all)
-    
+
+
+![GPT4ALL Arayüzü](../assets/images/GPT4ALL.png)
+
+
 - Nomic AI firması tarafından geliştirilen GPT4ALL en popüler yerel chatbot uygulamalarından birisidir.
 - Deepseek R1, LLaMa, Mistral ve Nous-Hermes gibi modelleri destekler.
 - GPT4ALL için konfigüre edilmiş modellerin yanında, Hugging Face üzerinden arama yapabilmenize ve uygulamadan ayrılmadan modelleri bilgisayarınıza indirebilmenizi sağlar.
@@ -105,24 +113,24 @@ Meraklıları için Huggingface üzerinden çok daha fazla model bulma, inceleme
 
 #### [**2. Llamafile**](https://llamafile.ai/)
     
-    - Llamafile, Mozilla tarafından geliştirilmiş bir araçtır ve herhangi bir kurulum gerektirmeden, yalnızca tek bir dosya kullanılarak çalıştırılabilir.
-    - Yerel olarak büyük dil modellerini (LLM) çalıştırmayı oldukça basit bir hale getiren bu yenilikçi yaklaşım, kullanıcıların karmaşık kurulum süreçlerinden kurtulmasına olanak tanır.
+- Llamafile, Mozilla tarafından geliştirilmiş bir araçtır ve herhangi bir kurulum gerektirmeden, yalnızca tek bir dosya kullanılarak çalıştırılabilir.
+- Yerel olarak büyük dil modellerini (LLM) çalıştırmayı oldukça basit bir hale getiren bu yenilikçi yaklaşım, kullanıcıların karmaşık kurulum süreçlerinden kurtulmasına olanak tanır.
 
-#### [3. **Jan.ai**](http://jan.ai/)
+#### [**3. Jan.ai**](http://jan.ai/)
     
-    - Kullanıcı arayüzü açısından en gelişmiş olan uygulama desek yeridir.
-    - Ancak, yerel dokümanlarla etkileşim sağlama, modelden soru sorma ve benzeri özellikler beta aşamasındadır ve zaman zaman hata verebilir.
+- Kullanıcı arayüzü açısından en gelişmiş olan uygulama desek yeridir.
+- Ancak, yerel dokümanlarla etkileşim sağlama, modelden soru sorma ve benzeri özellikler beta aşamasındadır ve zaman zaman hata verebilir.
 
 #### [**4. AnythingLLM**](https://anythingllm.com)
     
-    - AnythingLLM yerel dökümanların yanısıra veritabanı bağlama gibi ileri düzey özellikler sağlayan bir uygulamadır ve genellikle ileri düzey kullanıcılar için tavsiye edilir.
+- AnythingLLM yerel dökümanların yanısıra veritabanı bağlama gibi ileri düzey özellikler sağlayan bir uygulamadır ve genellikle ileri düzey kullanıcılar için tavsiye edilir.
     
 #### [**5. Ollama**](https://ollama.com)
     
-    - LLM'leri yerel olarak çalıştırmak için basitleştirilmiş bir komut satırı aracıdır.
-    - Çoklu model desteği ve multimodal yetenekleri ile metin, görüntü ve diğer veri türleriyle çalışabilir.
-    - Hızlı başlatma süresi ve düşük kaynak kullanımına sahiptir
-    - Bir kullanıcı arayüzü bulunmamaktadır ve bilgisayar terminali üzerinden kullanılabilir. İstenildiği takdirde çeşitli kullanıcı arayüzleri Ollama ile entegre olarak kullanılabilir.
+- LLM'leri yerel olarak çalıştırmak için basitleştirilmiş bir komut satırı aracıdır.
+- Çoklu model desteği ve multimodal yetenekleri ile metin, görüntü ve diğer veri türleriyle çalışabilir.
+- Hızlı başlatma süresi ve düşük kaynak kullanımına sahiptir
+- Bir kullanıcı arayüzü bulunmamaktadır ve bilgisayar terminali üzerinden kullanılabilir. İstenildiği takdirde çeşitli kullanıcı arayüzleri Ollama ile entegre olarak kullanılabilir.
 
 
 
@@ -159,7 +167,7 @@ Tabii ücretli servislerde de veri toplanabiliyor — orası ayrı mesele. Ama �
 
 Gizliliğe önem veren büyük dil modeli (LLM) çözümleri her geçen gün gelişiyor ve çeşitleniyor. Hem yerel hem de bulut tabanlı seçenekler, kullanıcı ihtiyaçlarına göre daha esnek ve güvenli hale geliyor.
 
-Yerel çözümler — örneğin GPT4All, Llamafile, [Jan.ai](http://Jan.ai) veya AnythingLLM — verilerinizin tamamen cihazınızda işlenmesini sağlayarak maksimum gizlilik sunar.
+Yerel çözümler — örneğin [**GPT4All**](https://www.nomic.ai/gpt4all), [**Llamafile**](https://llamafile.ai/), [Jan.ai](http://Jan.ai), [**AnythingLLM**](https://anythingllm.com), veya #### [**Ollama**](https://ollama.com) verilerinizin tamamen cihazınızda işlenmesini sağlayarak maksimum gizlilik sunar.
 
 [**Brave Leo**](https://brave.com/leo/) ve [**DuckDuckGo AI Chat**](https://duck.ai), ve [**Hugging Face Chat**](https://huggingface.co/chat/) gibi bulut tabanlı seçenekler mahremiyet ile güçlü modellerden hızlı şekilde faydalanmak isteyen kullanıcılar için bir alternatif çözümler sunar.
 
