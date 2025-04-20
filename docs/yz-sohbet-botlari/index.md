@@ -198,7 +198,10 @@ Yerel çözümler — örneğin [**GPT4All**](https://www.nomic.ai/gpt4all), [**
 
 Sonuç olarak, en doğru tercih; kullanım amacınıza, teknik altyapınıza ve gizlilik konusundaki önceliklerinize bağlı olarak değişir ve bunu da en iyi siz bilebilirsiniz.
 
-!!! tip
+!!! information "Ek Bilgi"
+    Bu yazıda sitemizin genel üslup ve tonuna göre bir farklılık sezdiyseniz, haklısınız. Çünkü bu sefer bir değişiklik yaptık, ve yazı hazırlandıktan sonra bir yapay zeka aracına internet ekipler amirinin üslubuyla tekrar yazdırdık. Sonuçlar gerçekten şaşırtıcı.
+
+!!! tip ""
     <div style="text-align: center; font-size: 1.5em; font-weight: bold;">
         Hangi aracı kullanırsanız kullanın, kontrolün sizde olduğunu unutmayın, istediğinizde verileriniz Gizli Kalsın.
     </div>
