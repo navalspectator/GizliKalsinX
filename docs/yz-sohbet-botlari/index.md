@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT'den Kaçış Planı: Veriniz Sadece Sizin Kalsın Diyen Sohbet Botları"
+title: "ChatGPT'den Kaçış Planı: Verileriniz Sadece Size Kalsın Diyen Sohbet Botları"
 icon: material/creation
 ---
 
